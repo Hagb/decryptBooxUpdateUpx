@@ -18,15 +18,15 @@
 
     以 NovaPro 为例，以上 `name` 值首先在`res/values/public.xml`中找到，分别为
 
-        - `"settings"`
-        - `"upgrade"`
-        - `"local"`
+    - `"settings"`
+    - `"upgrade"`
+    - `"local"`
 
     接着在`res/values/strings.xml`中可找到其对应的`string`值即 S1、S2、S3 的值，分别为
 
-        - `"j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ"`
-        - `"+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag"`
-        - `"lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF"`
+    - `"j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ"`
+    - `"+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag"`
+    - `"lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF"`
 
 ## 解密算法
 
