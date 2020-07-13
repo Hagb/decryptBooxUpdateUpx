@@ -7,14 +7,14 @@ from base64 import b64decode
 class DeBooxUpx:
     blockSize: int = 2**12  # 4KiB
 
-    def __init__(self, MODEL: str, STRING_2131034112: str,
-                 STRING_2131034113: str, STRING_2131034114: str):
+    def __init__(self, MODEL: str, STRING_7F00500: str,
+                 STRING_7F00501: str, STRING_7F00502: str = ''):
         tmpKey: bytes = MD5.new((MODEL * 2).encode()).digest()[:8]
         self.key: bytes = bytes.fromhex(
-            self.decryptStr(tmpKey, STRING_2131034112))
+            self.decryptStr(tmpKey, STRING_7F00500))
         self.iv: bytes = bytes.fromhex(
-            self.decryptStr(tmpKey, STRING_2131034113))
-        self.path: str = self.decryptStr(tmpKey, STRING_2131034114)
+            self.decryptStr(tmpKey, STRING_7F00501))
+        self.path: str = self.decryptStr(tmpKey, STRING_7F00502)
 
     @staticmethod
     def decryptStr(tmpKey: bytes, string: str) -> str:

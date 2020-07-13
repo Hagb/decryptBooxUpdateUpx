@@ -14,7 +14,7 @@
 
 - 以下三个字符串：
 
-    先从设备中`pull`出`/system/app/OnyxOtaService/OnyxOtaService.apk`并用`Smali`工具解包，然后在其中查找`id`分别为`0x7f050000`、`0x7f050001`、`0x7f050002`的`name`值，再根据这三个`name`值查找得到三条`string`值，我们分别将它们记作 S1, S2, S3。
+    先从设备中`pull`出`/system/app/OnyxOtaService/OnyxOtaService.apk`并用`apktool`工具解包，然后在其中查找`id`分别为`0x7f050000`、`0x7f050001`、`0x7f050002`的`name`值，再根据这三个`name`值查找得到三条`string`值，我们分别将它们记作 S1, S2, S3。
 
     以 NovaPro 为例，以上 `name` 值首先在`res/values/public.xml`中找到，分别为
 
