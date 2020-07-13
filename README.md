@@ -23,7 +23,7 @@ updateUpxPath = 'update.upx'
 decryptedPath = 'update.zip'
 
 decrypter = DeBooxUpx(MODEL, STRING_7F00500, STRING_7F00501, STRING_7F00502)
-print('When updating, the device decrypt the plain update package into', decrypter.path)
+print('When updating, the device decrypt update package into', decrypter.path)
 decrypter.deUpx(updateUpxPath, decryptedPath)
 ```
 
@@ -32,4 +32,8 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |       |  MODEL  |            STRING_7F00500 (S1)               |               STRING_7F00501 (S2)            |           STRING_7F00502 (S3)            |
 |-------|---------|----------------------------------------------|----------------------------------------------|------------------------------------------|
 |NovaPro|`NovaPro`|`j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ`|`+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag`|`lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF`|
+
+### How to get the strings
+
+TODO
 
