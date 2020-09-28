@@ -1,6 +1,6 @@
 # decrypt Boox Update Upx
 
-Have been tested only in Onyx Boox Nova Pro. If you found it available for any other Boox ereader, please submit an [issue](https://github.com/Hagb/decryptBooxUpdateUpx/issues) or [pull request](https://github.com/Hagb/decryptBooxUpdateUpx/pulls), with [the strings](#the-strings) following.
+Have been tested only in Onyx Boox NovaPro and Max3. If you found it available for any other Boox ereader, please submit an [issue](https://github.com/Hagb/decryptBooxUpdateUpx/issues) or [pull request](https://github.com/Hagb/decryptBooxUpdateUpx/pulls), with [the strings](#the-strings) following.
 
 There is also [another method to fetch decrypted `update.zip`](https://github.com/Hagb/decryptBooxUpdateUpx/issues/1) from [@shunf4](https://github.com/shunf4).
 
