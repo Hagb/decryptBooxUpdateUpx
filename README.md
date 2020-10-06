@@ -10,9 +10,22 @@ Any other issue and pull request is also welcomed!
 
 ## Demo
 
-There is a python class `DeBooxUpx` in [DeBooxUpx.py](DeBooxUpx.py) to decrypt `update.upx`.
+There is a python class `DeBooxUpx` in [DeBooxUpx.py](DeBooxUpx.py) to decrypt `update.upx`, and dict `boox_strings` where there are known strings.
 
 Following is a example to use this class to decrypt the `update.upx` of Boox Nove Pro:
+
+``` python3
+from DeBooxUpx import DeBooxUpx, boox_strings
+model = 'NovaPro'
+updateUpxPath = 'update.upx'
+decryptedPath = 'update.zip'
+
+decrypter = DeBooxUpx(**boox_strings[model])
+print('When updating, the device decrypt update package into', decrypter.path)
+decrypter.deUpx(updateUpxPath, decryptedPath)
+```
+
+Or for manually setting strings:
 
 ``` python3
 from DeBooxUpx import DeBooxUpx
