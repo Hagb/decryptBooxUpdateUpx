@@ -30,7 +30,7 @@
 
 ## 解密算法
 
-1. 求 MODEL 的 md5，（二进制）截取前 8 字节，作为临时密钥 tmpK；
+1. 求两份 MODEL 相连（如 MODEL 值为`NovaPro`，则该值为`MovaProNovaPro`）的 md5，（二进制）截取前 8 字节，作为临时密钥 tmpK；
 2. Base64 解码 S1、S2、S3，分别得字符串 s1、s2、s3
 3. 用 DES 算法 CFB 模式
 
