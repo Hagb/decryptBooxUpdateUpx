@@ -44,7 +44,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 
 ## The strings
 
-|       |  MODEL  |            STRING_7F00500 (S1)               |               STRING_7F00501 (S2)            |           STRING_7F00502 (S3)            |
+|       |  MODEL  |            STRING\_7F00500 (S1)              |               STRING\_7F00501 (S2)           |           STRING\_7F00502 (S3)           |
 |-------|---------|----------------------------------------------|----------------------------------------------|------------------------------------------|
 |NovaPro|`NovaPro`|`j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ`|`+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag`|`lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF`|
 | Max3  | `Max3`  |`1wdvUHZmcz32N1pgG4fkHmDsTDVihMJsPCNV4mW/6u1k`|`3nxuLgdpBE3B3n1Yyymt4cOS8dNucfQxK8YOsmcemuyO`|`yCA9YlFxLBdLbDUl3vwzPkn9vtYuVFZCfhrOTvR1`|
@@ -52,5 +52,39 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 
 ### How to get the strings
 
-TODO
+`MODEL` string is the model name, exactly the output of `getprop ro.product.model` and/or value of `ro.product.model` in the file `/system/build.prop`.
+
+Other strings can be got in following steps:
+
+1. Get `/system/app/OnyxOtaService/OnyxOtaService.apk`
+    
+    USB Debugging (adb) is one of the the available ways:
+    
+    1. Turn on adb in Settings -> Applications -> USB Debugging Mode
+    2. Connect the ebook to computer by usb, run
+       ``` shell
+       adb wait-for-device
+       adb pull /system/app/OnyxOtaService/OnyxOtaService.apk .
+       ```
+       
+    And now the apk is got.
+
+2. Get the strings from apk
+
+    1. Use [Apktool](https://github.com/iBotPeaches/Apktool) to decode the apk:
+       ``` shell
+       apktool d OnyxOtaService.apk
+       ```
+    2. Now the strings should be in `./OnyxOtaService/res/values/strings.xml`, for example the NovaPro one:
+       ``` xml
+       <?xml version="1.0" encoding="utf-8"?>
+       <resources>
+           <string name="settings">j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ</string>
+           <string name="upgrade">+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag</string>
+           <string name="local">lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF</string>
+           
+       </resources>
+       ```
+       
+      `settings` is `STRING_7F00500`, `upgrade` is `STRING_7F00501`, and `local` is `STRING_7F00502`
 
