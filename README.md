@@ -52,6 +52,8 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 | Max3  | `Max3`  |`1wdvUHZmcz32N1pgG4fkHmDsTDVihMJsPCNV4mW/6u1k`|`3nxuLgdpBE3B3n1Yyymt4cOS8dNucfQxK8YOsmcemuyO`|`yCA9YlFxLBdLbDUl3vwzPkn9vtYuVFZCfhrOTvR1`|
 |MaxLumi|`MaxLumi`|`mTZFN0K+oMcGnn2n7+zV5DH7kr/Hbes2x/wKDJp6K7Kq`|`mj0zR0Oy3L4R+6y49MIEQT9bdx9AVz8TWyG9q3N+d9VY`|`hWAUdhOp9ekIYxIW+LpVj6OviWBbCbRa1c7s1jtW`|
 
+**The firmwares for the Onyx readers sold in Russia may not use the same strings!**
+
 ### How to get the strings
 
 `MODEL` string is the model name, exactly the output of `getprop ro.product.model` and/or value of `ro.product.model` in the file `/system/build.prop`.
