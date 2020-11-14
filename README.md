@@ -53,6 +53,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |MaxLumi|`MaxLumi`|`mTZFN0K+oMcGnn2n7+zV5DH7kr/Hbes2x/wKDJp6K7Kq`|`mj0zR0Oy3L4R+6y49MIEQT9bdx9AVz8TWyG9q3N+d9VY`|`hWAUdhOp9ekIYxIW+LpVj6OviWBbCbRa1c7s1jtW`|
 | Note2 | `Note2` |`etwiPPEXAQRj3m+e0Q2FOxT16aJ8XexQAqhGn5NqZWv1`|`et0jSPpmd3ueGHLmMf+2yyXVn18sa2HrDg56dCTFH6lf`|`YY9wfqN7K1LlSug47Tr5Y8QkDHmmJ4VDCJ58mhoV`|
 | NotePro  | `NotePro` | `MjR72bOazBUacJwDcuWgtm/E0A9F9ahIt1buweEPA020` |`RjV8r7+fx2Wjp6rUSrBOpmqYnHKs7eReqTTcy9k4c3tn` |`W2co6eaDmEl7jIjOSqr11C71RDHHiV3p5oG2G54X` |
+| Note3 | `Note3` |`uTiMM5JgTXOCZAZKMcZIzc1yQpfX1+jxTFOred3te4z9`|`zEf3SZ8TOADA8QuwOHicGLrrc4EA7sffKfc01TlUfe/q`|`pmXVBMt5EllxXhD9L6/NWH/pTZXRURP6QLsrNlx6`|
 
 **Some or all of the firmwares for the Onyx readers sold in Russia don't use the same strings with their international versions!**
 
