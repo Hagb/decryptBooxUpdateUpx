@@ -68,13 +68,24 @@ Other strings can be got in following steps:
     USB Debugging (adb) is one of the the available ways:
     
     1. Turn on adb in Settings -> Applications -> USB Debugging Mode
-    2. Connect the ebook to computer by usb, run
+    2. (from [@mgrub](https://github.com/mgrub)'s [note](https://github.com/Hagb/decryptBooxUpdateUpx/issues/5)) Connect the ebook to computer by usb, run
        ``` shell
        adb wait-for-device
+       adb shell 'pm list packages -f | grep ota'
+       ```
+       And then the path of ota package will be showed. For example, the following output is in Nova Pro:
+       ```
+       package:/system/app/OnyxOtaService/OnyxOtaService.apk=com.onyx.android.onyxotaservice
+       ```
+       So in this case the path is `/system/app/OnyxOtaService/OnyxOtaService.apk`.
+
+       In the following steps, we assume that the path is `/system/app/OnyxOtaService/OnyxOtaService.apk`.
+
+    3. Run the following command
+       ``` shell
        adb pull /system/app/OnyxOtaService/OnyxOtaService.apk .
        ```
-       
-    And now the apk is got.
+    Now the apk is got.
 
 2. Get the strings from apk
 
