@@ -1,4 +1,3 @@
-
 from Cryptodome.Cipher import AES
 from Cryptodome.Cipher import DES
 from Cryptodome.Hash import MD5
@@ -16,6 +15,12 @@ boox_strings = {
         "STRING_7F00500": "MtoBkApRAVwzdGe2CTnaE4MIgevRYNQfaKo606tyUQNY",
         "STRING_7F00501": "Nttwkwxaei8xorBu/uUBpUu8nNZHTRIAZMZc0xrJs9Ti",
         "STRING_7F00502": "LIYj1F9NVXFrOfi24/C76gFFxHYSCJ4mfhYI4q5w"
+    },
+    'Nova2': {
+        "MODEL": "Nova2",
+        "STRING_7F00500": "lxXh4Vv6aqYecCAFc/hsn4mnXNbI6H4S3bZFW5Jh8NHj",
+        "STRING_7F00501": "lBabky+FbaOtZ7luDK+7BlApiYcGEi8PndwIc5WaemXQ",
+        "STRING_7F00502": "iDDDo3jsN4hhLA3tQhaIkM4XLcxZT4czBMM7ExnK"
     },
     'Max3': {
         "MODEL": "Max3",
