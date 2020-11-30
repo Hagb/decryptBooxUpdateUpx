@@ -87,3 +87,16 @@ class DeBooxUpx:
         self.deUpxSteam(inputFile, outputFile)
         inputFile.close()
         outputFile.close()
+
+
+if __name__ == '__main__':
+    import sys
+    if len(sys.argv) >= 2:
+        device_name = sys.argv[1].capitalize()
+        updateUpxPath = "update.upx" if len(sys.argv) == 2 else sys.argv[2]
+        decryptedPath = updateUpxPath.replace(".upx", ".zip")
+        decrypter = DeBooxUpx(**boox_strings[device_name])
+        decrypter.deUpx(updateUpxPath, decryptedPath)
+        print(f"Saved decrypted file to {decryptedPath}")
+    else:
+        print("Usage:\npython DeBooxUpdate.py <device name> [input file name]")
