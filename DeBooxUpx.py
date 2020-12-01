@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from Cryptodome.Cipher import AES
 from Cryptodome.Cipher import DES
 from Cryptodome.Hash import MD5
@@ -94,7 +95,9 @@ if __name__ == '__main__':
     if len(sys.argv) >= 2:
         device_name = sys.argv[1].capitalize()
         updateUpxPath = "update.upx" if len(sys.argv) == 2 else sys.argv[2]
-        decryptedPath = updateUpxPath.replace(".upx", ".zip")
+        name = updateUpxPath[:-4]
+        ext = updateUpxPath[-4:].lower()
+        decryptedPath = name + '.zip' if ext == '.upx' else updateUpxPath + '.zip'
         decrypter = DeBooxUpx(**boox_strings[device_name])
         decrypter.deUpx(updateUpxPath, decryptedPath)
         print(f"Saved decrypted file to {decryptedPath}")
