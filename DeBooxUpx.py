@@ -93,7 +93,7 @@ class DeBooxUpx:
 if __name__ == '__main__':
     import sys
     if len(sys.argv) >= 2:
-        device_name = sys.argv[1].capitalize()
+        device_name = sys.argv[1]
         updateUpxPath = "update.upx" if len(sys.argv) == 2 else sys.argv[2]
         name = updateUpxPath[:-4]
         ext = updateUpxPath[-4:].lower()
