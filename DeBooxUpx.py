@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from Cryptodome.Cipher import AES
 from Cryptodome.Cipher import DES
 from Cryptodome.Hash import MD5
@@ -87,3 +88,25 @@ class DeBooxUpx:
         self.deUpxSteam(inputFile, outputFile)
         inputFile.close()
         outputFile.close()
+
+
+if __name__ == '__main__':
+    import sys
+    if len(sys.argv) >= 2:
+        device_name = sys.argv[1]
+        updateUpxPath = "update.upx" if len(sys.argv) == 2 else sys.argv[2]
+        name = updateUpxPath[:-4]
+        ext = updateUpxPath[-4:].lower()
+        decryptedPath = name + '.zip' if ext == '.upx' else updateUpxPath + '.zip'
+        if device_name not in boox_strings.keys():
+            print("Following device is not supported, or the name is wrong")
+            print("Supported devices:")
+            print(" ".join(boox_strings.keys()))
+            sys.exit()
+        decrypter = DeBooxUpx(**boox_strings[device_name])
+        decrypter.deUpx(updateUpxPath, decryptedPath)
+        print(f"Saved decrypted file to {decryptedPath}")
+    else:
+        print("Usage:\npython DeBooxUpdate.py <device name> [input file name]")
+        print("Supported devices:")
+        print(" ".join(boox_strings.keys()))

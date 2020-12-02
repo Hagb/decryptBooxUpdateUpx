@@ -10,6 +10,17 @@ Any other issue and pull request is also welcomed!
 
 [The detail of algorithm (Simplified Chinese)](algorithm-zh_cn.md)
 
+## How to run?
+
+You can run the application by putting `update.upx` file in the project directory and running
+
+```bash
+python DeBooxUpx.py <device model> [input file name]
+```
+
+`<device model>` is required, `[input file name]` is optional.  
+For list of currently supported models please refer to the [table](#the-strings).
+
 ## Demo
 
 There is a python class `DeBooxUpx` in [DeBooxUpx.py](DeBooxUpx.py) to decrypt `update.upx`, and dict `boox_strings` where there are known strings.
