@@ -12,6 +12,14 @@ Any other issue and pull request is also welcomed!
 
 ## How to run?
 
+Python3 should be installed to run the script, and `pycryptodomex` a dependency of the script should also be installed:
+
+(BTW: in some environments, the following `pip` and `python` should be replace with `pip3` and `python3`)
+
+```bash
+pip install pycryptodomex
+```
+
 You can run the application by putting `update.upx` file in the project directory and running
 
 ```bash
@@ -21,7 +29,7 @@ python DeBooxUpx.py <device model> [input file name]
 `<device model>` is required, `[input file name]` is optional.  
 For list of currently supported models please refer to the [table](#the-strings).
 
-## Demo
+## API
 
 There is a python class `DeBooxUpx` in [DeBooxUpx.py](DeBooxUpx.py) to decrypt `update.upx`, and dict `boox_strings` where there are known strings.
 
