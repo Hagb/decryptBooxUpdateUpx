@@ -14,7 +14,7 @@ Any other issue and pull request is also welcomed!
 
 Python3 should be installed to run the script, and `pycryptodomex` a dependency of the script should also be installed:
 
-(BTW: in some environments, the following `pip` and `python` should be replace with `pip3` and `python3`)
+(BTW: in some environments, the following `pip` and `python` should be replaced with `pip3` and `python3`)
 
 ```bash
 pip install pycryptodomex
