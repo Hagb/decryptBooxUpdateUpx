@@ -75,6 +75,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 | Note2 | `Note2` |`etwiPPEXAQRj3m+e0Q2FOxT16aJ8XexQAqhGn5NqZWv1`|`et0jSPpmd3ueGHLmMf+2yyXVn18sa2HrDg56dCTFH6lf`|`YY9wfqN7K1LlSug47Tr5Y8QkDHmmJ4VDCJ58mhoV`|
 | NotePro  | `NotePro` | `MjR72bOazBUacJwDcuWgtm/E0A9F9ahIt1buweEPA020` |`RjV8r7+fx2Wjp6rUSrBOpmqYnHKs7eReqTTcy9k4c3tn` |`W2co6eaDmEl7jIjOSqr11C71RDHHiV3p5oG2G54X` |
 | Note3 | `Note3` |`uTiMM5JgTXOCZAZKMcZIzc1yQpfX1+jxTFOred3te4z9`|`zEf3SZ8TOADA8QuwOHicGLrrc4EA7sffKfc01TlUfe/q`|`pmXVBMt5EllxXhD9L6/NWH/pTZXRURP6QLsrNlx6`|
+| Poke3 | `Poke3` |`lU95mOkt0cGucrsrIdAWuYnoJEnTTfIvu/QNUlcmI42A`|`kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP`|`iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV`|
 
 **Some or all of the firmwares for the Onyx readers sold in Russia don't use the same strings with their international versions!**
 

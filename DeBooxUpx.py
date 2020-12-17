@@ -52,7 +52,13 @@ boox_strings = {
         "STRING_7F00500": "uTiMM5JgTXOCZAZKMcZIzc1yQpfX1+jxTFOred3te4z9",
         "STRING_7F00501": "zEf3SZ8TOADA8QuwOHicGLrrc4EA7sffKfc01TlUfe/q",
         "STRING_7F00502": "pmXVBMt5EllxXhD9L6/NWH/pTZXRURP6QLsrNlx6"
-    }
+    },
+    'Poke3': {
+        "MODEL": "Poke3",
+        "STRING_7F00500": "lU95mOkt0cGucrsrIdAWuYnoJEnTTfIvu/QNUlcmI42A",
+        "STRING_7F00501": "kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP",
+        "STRING_7F00502": "iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV",
+    },
 }
 
 
