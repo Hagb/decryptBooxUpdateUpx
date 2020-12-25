@@ -59,6 +59,12 @@ boox_strings = {
         "STRING_7F00501": "kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP",
         "STRING_7F00502": "iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV",
     },
+    'Poke2Color': {
+        "MODEL": "Poke2Color",
+        "STRING_7F00500": "I7ewiUSud0x9auT0PKp29393K5Hg3ymr1VJY5eUhoHEm",
+        "STRING_7F00501": "JLe4ijbRcj5L8S9cRPRGL7eoEIKjT8OOblhy/wyvSbze",
+        "STRING_7F00502": "SODgyWbHLhfjy4WWk6lhqhYXnP1FTjSjtzMTyZkl",
+    },
 }
 
 
