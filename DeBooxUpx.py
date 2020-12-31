@@ -23,6 +23,12 @@ boox_strings = {
         "STRING_7F00501": "lBabky+FbaOtZ7luDK+7BlApiYcGEi8PndwIc5WaemXQ",
         "STRING_7F00502": "iDDDo3jsN4hhLA3tQhaIkM4XLcxZT4czBMM7ExnK"
     },
+    'Nova3': {
+        "MODEL": "Nova3",
+        "STRING_7F00500": "VUkFew9KjsE54uQMSZI+S2tT1RRckT/vKkfiFFqImxi7",
+        "STRING_7F00501": "VEsMcHw88MpwOByhT7zqNhRFTQcruVMqhdllIlY6T+6f",
+        "STRING_7F00502": "TGlcNi8npJe4EHxzOKbCXakJKDssoRldHueY5OGl"
+    },
     'Max3': {
         "MODEL": "Max3",
         "STRING_7F00500": "1wdvUHZmcz32N1pgG4fkHmDsTDVihMJsPCNV4mW/6u1k",
