@@ -7,69 +7,69 @@ from base64 import b64decode
 boox_strings = {
     'NovaPro': {
         "MODEL": "NovaPro",
-        "STRING_7F00500": "j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ",
-        "STRING_7F00501": "+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag",
-        "STRING_7F00502": "lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF"
+        "STRING_SETTINGS": "j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ",
+        "STRING_UPGRADE": "+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag",
+        "STRING_LOCAL": "lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF"
     },
     'NovaPlus': {
         "MODEL": "NovaPlus",
-        "STRING_7F00500": "MtoBkApRAVwzdGe2CTnaE4MIgevRYNQfaKo606tyUQNY",
-        "STRING_7F00501": "Nttwkwxaei8xorBu/uUBpUu8nNZHTRIAZMZc0xrJs9Ti",
-        "STRING_7F00502": "LIYj1F9NVXFrOfi24/C76gFFxHYSCJ4mfhYI4q5w"
+        "STRING_SETTINGS": "MtoBkApRAVwzdGe2CTnaE4MIgevRYNQfaKo606tyUQNY",
+        "STRING_UPGRADE": "Nttwkwxaei8xorBu/uUBpUu8nNZHTRIAZMZc0xrJs9Ti",
+        "STRING_LOCAL": "LIYj1F9NVXFrOfi24/C76gFFxHYSCJ4mfhYI4q5w"
     },
     'Nova2': {
         "MODEL": "Nova2",
-        "STRING_7F00500": "lxXh4Vv6aqYecCAFc/hsn4mnXNbI6H4S3bZFW5Jh8NHj",
-        "STRING_7F00501": "lBabky+FbaOtZ7luDK+7BlApiYcGEi8PndwIc5WaemXQ",
-        "STRING_7F00502": "iDDDo3jsN4hhLA3tQhaIkM4XLcxZT4czBMM7ExnK"
+        "STRING_SETTINGS": "lxXh4Vv6aqYecCAFc/hsn4mnXNbI6H4S3bZFW5Jh8NHj",
+        "STRING_UPGRADE": "lBabky+FbaOtZ7luDK+7BlApiYcGEi8PndwIc5WaemXQ",
+        "STRING_LOCAL": "iDDDo3jsN4hhLA3tQhaIkM4XLcxZT4czBMM7ExnK"
     },
     'Nova3': {
         "MODEL": "Nova3",
-        "STRING_7F00500": "VUkFew9KjsE54uQMSZI+S2tT1RRckT/vKkfiFFqImxi7",
-        "STRING_7F00501": "VEsMcHw88MpwOByhT7zqNhRFTQcruVMqhdllIlY6T+6f",
-        "STRING_7F00502": "TGlcNi8npJe4EHxzOKbCXakJKDssoRldHueY5OGl"
+        "STRING_SETTINGS": "VUkFew9KjsE54uQMSZI+S2tT1RRckT/vKkfiFFqImxi7",
+        "STRING_UPGRADE": "VEsMcHw88MpwOByhT7zqNhRFTQcruVMqhdllIlY6T+6f",
+        "STRING_LOCAL": "TGlcNi8npJe4EHxzOKbCXakJKDssoRldHueY5OGl"
     },
     'Max3': {
         "MODEL": "Max3",
-        "STRING_7F00500": "1wdvUHZmcz32N1pgG4fkHmDsTDVihMJsPCNV4mW/6u1k",
-        "STRING_7F00501": "3nxuLgdpBE3B3n1Yyymt4cOS8dNucfQxK8YOsmcemuyO",
-        "STRING_7F00502": "yCA9YlFxLBdLbDUl3vwzPkn9vtYuVFZCfhrOTvR1"
+        "STRING_SETTINGS": "1wdvUHZmcz32N1pgG4fkHmDsTDVihMJsPCNV4mW/6u1k",
+        "STRING_UPGRADE": "3nxuLgdpBE3B3n1Yyymt4cOS8dNucfQxK8YOsmcemuyO",
+        "STRING_LOCAL": "yCA9YlFxLBdLbDUl3vwzPkn9vtYuVFZCfhrOTvR1"
     },
     'MaxLumi': {
         "MODEL": "MaxLumi",
-        "STRING_7F00500": "mTZFN0K+oMcGnn2n7+zV5DH7kr/Hbes2x/wKDJp6K7Kq",
-        "STRING_7F00501": "mj0zR0Oy3L4R+6y49MIEQT9bdx9AVz8TWyG9q3N+d9VY",
-        "STRING_7F00502": "hWAUdhOp9ekIYxIW+LpVj6OviWBbCbRa1c7s1jtW"
+        "STRING_SETTINGS": "mTZFN0K+oMcGnn2n7+zV5DH7kr/Hbes2x/wKDJp6K7Kq",
+        "STRING_UPGRADE": "mj0zR0Oy3L4R+6y49MIEQT9bdx9AVz8TWyG9q3N+d9VY",
+        "STRING_LOCAL": "hWAUdhOp9ekIYxIW+LpVj6OviWBbCbRa1c7s1jtW"
     },
     'Note2': {
         "MODEL": "Note2",
-        "STRING_7F00500": "etwiPPEXAQRj3m+e0Q2FOxT16aJ8XexQAqhGn5NqZWv1",
-        "STRING_7F00501": "et0jSPpmd3ueGHLmMf+2yyXVn18sa2HrDg56dCTFH6lf",
-        "STRING_7F00502": "YY9wfqN7K1LlSug47Tr5Y8QkDHmmJ4VDCJ58mhoV"
+        "STRING_SETTINGS": "etwiPPEXAQRj3m+e0Q2FOxT16aJ8XexQAqhGn5NqZWv1",
+        "STRING_UPGRADE": "et0jSPpmd3ueGHLmMf+2yyXVn18sa2HrDg56dCTFH6lf",
+        "STRING_LOCAL": "YY9wfqN7K1LlSug47Tr5Y8QkDHmmJ4VDCJ58mhoV"
     },
     'NotePro':{
         "MODEL": "NotePro",
-        "STRING_7F00500": "MjR72bOazBUacJwDcuWgtm/E0A9F9ahIt1buweEPA020",
-        "STRING_7F00501": "RjV8r7+fx2Wjp6rUSrBOpmqYnHKs7eReqTTcy9k4c3tn",
-        "STRING_7F00502": "W2co6eaDmEl7jIjOSqr11C71RDHHiV3p5oG2G54X"
+        "STRING_SETTINGS": "MjR72bOazBUacJwDcuWgtm/E0A9F9ahIt1buweEPA020",
+        "STRING_UPGRADE": "RjV8r7+fx2Wjp6rUSrBOpmqYnHKs7eReqTTcy9k4c3tn",
+        "STRING_LOCAL": "W2co6eaDmEl7jIjOSqr11C71RDHHiV3p5oG2G54X"
     },
     'Note3': {
         "MODEL": "Note3",
-        "STRING_7F00500": "uTiMM5JgTXOCZAZKMcZIzc1yQpfX1+jxTFOred3te4z9",
-        "STRING_7F00501": "zEf3SZ8TOADA8QuwOHicGLrrc4EA7sffKfc01TlUfe/q",
-        "STRING_7F00502": "pmXVBMt5EllxXhD9L6/NWH/pTZXRURP6QLsrNlx6"
+        "STRING_SETTINGS": "uTiMM5JgTXOCZAZKMcZIzc1yQpfX1+jxTFOred3te4z9",
+        "STRING_UPGRADE": "zEf3SZ8TOADA8QuwOHicGLrrc4EA7sffKfc01TlUfe/q",
+        "STRING_LOCAL": "pmXVBMt5EllxXhD9L6/NWH/pTZXRURP6QLsrNlx6"
     },
     'Poke3': {
         "MODEL": "Poke3",
-        "STRING_7F00500": "lU95mOkt0cGucrsrIdAWuYnoJEnTTfIvu/QNUlcmI42A",
-        "STRING_7F00501": "kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP",
-        "STRING_7F00502": "iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV",
+        "STRING_SETTINGS": "lU95mOkt0cGucrsrIdAWuYnoJEnTTfIvu/QNUlcmI42A",
+        "STRING_UPGRADE": "kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP",
+        "STRING_LOCAL": "iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV",
     },
     'Poke2Color': {
         "MODEL": "Poke2Color",
-        "STRING_7F00500": "I7ewiUSud0x9auT0PKp29393K5Hg3ymr1VJY5eUhoHEm",
-        "STRING_7F00501": "JLe4ijbRcj5L8S9cRPRGL7eoEIKjT8OOblhy/wyvSbze",
-        "STRING_7F00502": "SODgyWbHLhfjy4WWk6lhqhYXnP1FTjSjtzMTyZkl",
+        "STRING_SETTINGS": "I7ewiUSud0x9auT0PKp29393K5Hg3ymr1VJY5eUhoHEm",
+        "STRING_UPGRADE": "JLe4ijbRcj5L8S9cRPRGL7eoEIKjT8OOblhy/wyvSbze",
+        "STRING_LOCAL": "SODgyWbHLhfjy4WWk6lhqhYXnP1FTjSjtzMTyZkl",
     },
 }
 
@@ -79,14 +79,14 @@ class DeBooxUpx:
 
     def __init__(self,
                  MODEL: str,
-                 STRING_7F00500: str,
-                 STRING_7F00501: str,
-                 STRING_7F00502: str = ''):
+                 STRING_SETTINGS: str,
+                 STRING_UPGRADE: str,
+                 STRING_LOCAL: str = ''):
         tmpKey: bytes = MD5.new((MODEL * 2).encode()).digest()[:8]
         self.key: bytes = bytes.fromhex(self.decryptStr(
-            tmpKey, STRING_7F00500))
-        self.iv: bytes = bytes.fromhex(self.decryptStr(tmpKey, STRING_7F00501))
-        self.path: str = self.decryptStr(tmpKey, STRING_7F00502)
+            tmpKey, STRING_SETTINGS))
+        self.iv: bytes = bytes.fromhex(self.decryptStr(tmpKey, STRING_UPGRADE))
+        self.path: str = self.decryptStr(tmpKey, STRING_LOCAL)
 
     @staticmethod
     def decryptStr(tmpKey: bytes, string: str) -> str:

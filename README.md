@@ -52,20 +52,20 @@ Or for manually setting strings:
 from DeBooxUpx import DeBooxUpx
 
 MODEL = "NovaPro" 
-STRING_7F00500 = "j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ" 
-STRING_7F00501 = "+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag" 
-STRING_7F00502 = "lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF" 
+STRING_SETTINGS = "j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ" 
+STRING_UPGRADE = "+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag" 
+STRING_LOCAL = "lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF" 
 updateUpxPath = 'update.upx'
 decryptedPath = 'update.zip'
 
-decrypter = DeBooxUpx(MODEL, STRING_7F00500, STRING_7F00501, STRING_7F00502)
+decrypter = DeBooxUpx(MODEL, STRING_SETTINGS, STRING_UPGRADE, STRING_LOCAL)
 print('When updating, the device decrypt update package into', decrypter.path)
 decrypter.deUpx(updateUpxPath, decryptedPath)
 ```
 
 ## The strings
 
-|       |  MODEL  |            STRING\_7F00500 (S1)              |               STRING\_7F00501 (S2)           |           STRING\_7F00502 (S3)           |
+|       |  MODEL  |            STRING\_SETTINGS (S1)              |               STRING\_UPGRADE (S2)           |           STRING\_LOCAL (S3)           |
 |-------|---------|----------------------------------------------|----------------------------------------------|------------------------------------------|
 |NovaPro|`NovaPro`|`j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ`|`+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag`|`lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF`|
 |NovaPlus  |`NovaPlus` |`MtoBkApRAVwzdGe2CTnaE4MIgevRYNQfaKo606tyUQNY`|`Nttwkwxaei8xorBu/uUBpUu8nNZHTRIAZMZc0xrJs9Ti`|`LIYj1F9NVXFrOfi24/C76gFFxHYSCJ4mfhYI4q5w`|
@@ -128,7 +128,7 @@ Other strings can be got in following steps:
        </resources>
        ```
        
-      `settings` is `STRING_7F00500`, `upgrade` is `STRING_7F00501`, and `local` is `STRING_7F00502`
+      `settings` is `STRING_SETTINGS`, `upgrade` is `STRING_UPGRADE`, and `local` is `STRING_LOCAL`
 
 3. Add and verify (optional) the strings
 
