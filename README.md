@@ -130,3 +130,10 @@ Other strings can be got in following steps:
        
       `settings` is `STRING_7F00500`, `upgrade` is `STRING_7F00501`, and `local` is `STRING_7F00502`
 
+3. Add and verify (optional) the strings
+
+    Add the strings to `boox_strings` in [DeBooxUpx.py](DeBooxUpx.py), use this script to decrypt a `update.upx` file (it can be got by [the method in #2](https://github.com/Hagb/decryptBooxUpdateUpx/issues/2#issuecomment-704006389)), and see if the `update.zip` file is a vaild zip file.
+
+## Contributing
+
+Refer to [CONTRIBUTING.md](CONTRIBUTING.md).
