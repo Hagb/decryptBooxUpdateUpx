@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
-from Cryptodome.Cipher import AES
-from Cryptodome.Cipher import DES
-from Cryptodome.Hash import MD5
+from Crypto.Cipher import AES
+from Crypto.Cipher import DES
+from Crypto.Hash import MD5
 from base64 import b64decode
 
 boox_strings = {
+    'PadMu3': {
+        "MODEL": "PadMuAP3",
+        "STRING_SETTINGS": "TCP3lGFLuxm7wOXWnaomQAdYikpFPAOj5U2LK0Dck3Un",
+        "STRING_UPGRADE": "PC3wkRM4zhgstNIQLGR+dW9jourXdEXZXU/mN7bTACu0",
+        "STRING_LOCAL": "In/UoUFVkUdHTCqlSfCgKi8MEZGHK0Xc70Y5trXs"
+    },
     'NovaPro': {
         "MODEL": "NovaPro",
         "STRING_SETTINGS": "j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ",

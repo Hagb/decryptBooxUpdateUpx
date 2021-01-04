@@ -12,12 +12,12 @@ Any other issue and pull request is also welcomed!
 
 ## How to run?
 
-Python3 should be installed to run the script, and `pycryptodomex` a dependency of the script should also be installed:
+Python3 should be installed to run the script, and `pycryptodome` a dependency of the script should also be installed:
 
 (BTW: in some environments, the following `pip` and `python` should be replaced with `pip3` and `python3`)
 
 ```bash
-pip install pycryptodomex
+pip install pycryptodome
 ```
 
 You can run the application by putting `update.upx` file in the project directory and running
@@ -80,6 +80,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |  Nova3   |  `Nova3`   |`VUkFew9KjsE54uQMSZI+S2tT1RRckT/vKkfiFFqImxi7`|`VEsMcHw88MpwOByhT7zqNhRFTQcruVMqhdllIlY6T+6f`|`TGlcNi8npJe4EHxzOKbCXakJKDssoRldHueY5OGl`|
 | NovaPlus | `NovaPlus` |`MtoBkApRAVwzdGe2CTnaE4MIgevRYNQfaKo606tyUQNY`|`Nttwkwxaei8xorBu/uUBpUu8nNZHTRIAZMZc0xrJs9Ti`|`LIYj1F9NVXFrOfi24/C76gFFxHYSCJ4mfhYI4q5w`|
 | NovaPro  | `NovaPro`  |`j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ`|`+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag`|`lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF`|
+|  PadMu3  | `PadMuAP3` |`TCP3lGFLuxm7wOXWnaomQAdYikpFPAOj5U2LK0Dck3Un`|`PC3wkRM4zhgstNIQLGR+dW9jourXdEXZXU/mN7bTACu0`|`In/UoUFVkUdHTCqlSfCgKi8MEZGHK0Xc70Y5trXs`|
 |Poke2Color|`Poke2Color`|`I7ewiUSud0x9auT0PKp29393K5Hg3ymr1VJY5eUhoHEm`|`JLe4ijbRcj5L8S9cRPRGL7eoEIKjT8OOblhy/wyvSbze`|`SODgyWbHLhfjy4WWk6lhqhYXnP1FTjSjtzMTyZkl`|
 |  Poke3   |  `Poke3`   |`lU95mOkt0cGucrsrIdAWuYnoJEnTTfIvu/QNUlcmI42A`|`kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP`|`iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV`|
 <!--(strings table end)-->
