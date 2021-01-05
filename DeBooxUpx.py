@@ -1,7 +1,16 @@
 #!/usr/bin/env python3
-from Crypto.Cipher import AES
-from Crypto.Cipher import DES
-from Crypto.Hash import MD5
+try:
+    from Cryptodome.Cipher import AES
+    from Cryptodome.Cipher import DES
+    from Cryptodome.Hash import MD5
+except ModuleNotFoundError:
+    from Crypto.Cipher import AES
+    from Crypto.Cipher import DES
+    from Crypto.Hash import MD5
+    from Crypto import version_info
+    if version_info[0] == 2:
+        raise SystemExit('Need either `pycryptodome` or `pycryptodomex`,'\
+                ' NOT `pycrypto`!')
 from base64 import b64decode
 
 boox_strings = {
