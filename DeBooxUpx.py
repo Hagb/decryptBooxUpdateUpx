@@ -62,7 +62,7 @@ boox_strings = {
         "STRING_UPGRADE": "et0jSPpmd3ueGHLmMf+2yyXVn18sa2HrDg56dCTFH6lf",
         "STRING_LOCAL": "YY9wfqN7K1LlSug47Tr5Y8QkDHmmJ4VDCJ58mhoV"
     },
-    'NotePro':{
+    'NotePro': {
         "MODEL": "NotePro",
         "STRING_SETTINGS": "MjR72bOazBUacJwDcuWgtm/E0A9F9ahIt1buweEPA020",
         "STRING_UPGRADE": "RjV8r7+fx2Wjp6rUSrBOpmqYnHKs7eReqTTcy9k4c3tn",
@@ -86,6 +86,12 @@ boox_strings = {
         "STRING_UPGRADE": "JLe4ijbRcj5L8S9cRPRGL7eoEIKjT8OOblhy/wyvSbze",
         "STRING_LOCAL": "SODgyWbHLhfjy4WWk6lhqhYXnP1FTjSjtzMTyZkl",
     },
+    'Nova': {
+        "MODEL": "Nova",
+        "STRING_SETTINGS": "L0uopm+jYaWWf/0e/POLt0kkBuS3H+5axpS6cqUpn4ft",
+        "STRING_UPGRADE": "XE6jpB3WZ9J5xQdh6GFchFbeBMALt6Zx/UIg8jaiaI72",
+        "STRING_LOCAL": "Rh/6kzjOT4nJCsXC5JMEkcbPzzBmNkB8i/c6ZNun"
+    },
 }
 
 
@@ -98,8 +104,8 @@ class DeBooxUpx:
                  STRING_UPGRADE: str,
                  STRING_LOCAL: str = ''):
         tmpKey: bytes = MD5.new((MODEL * 2).encode()).digest()[:8]
-        self.key: bytes = bytes.fromhex(self.decryptStr(
-            tmpKey, STRING_SETTINGS))
+        self.key: bytes = bytes.fromhex(
+            self.decryptStr(tmpKey, STRING_SETTINGS))
         self.iv: bytes = bytes.fromhex(self.decryptStr(tmpKey, STRING_UPGRADE))
         self.path: str = self.decryptStr(tmpKey, STRING_LOCAL)
 
