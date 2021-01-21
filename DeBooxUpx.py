@@ -92,6 +92,12 @@ boox_strings = {
         "STRING_UPGRADE": "XE6jpB3WZ9J5xQdh6GFchFbeBMALt6Zx/UIg8jaiaI72",
         "STRING_LOCAL": "Rh/6kzjOT4nJCsXC5JMEkcbPzzBmNkB8i/c6ZNun"
     },
+    'NoteAir': {
+        "MODEL": "NoteAir",
+        "STRING_SETTINGS": "U04vqHYo0LFoJQAvP3Rs1aBxySs7z4T1B+asamimEoAf",
+        "STRING_UPGRADE": "VD1ZqgIl08305CVeftRI7qGBtq9bCMrJ3a1VkpkzjOu2",
+        "STRING_LOCAL": "PW8K6VI//Zt6iqjYQWN0LIwRTVYyDHJvHNEXFwWV"
+    },
 }
 
 
