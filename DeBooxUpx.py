@@ -146,7 +146,7 @@ if __name__ == '__main__':
         if device_name not in boox_strings.keys():
             print("Following device is not supported, or the name is wrong")
             print("Supported devices:")
-            print(" ".join(boox_strings.keys()))
+            print(" ".join(sorted(boox_strings.keys())))
             sys.exit()
         decrypter = DeBooxUpx(**boox_strings[device_name])
         decrypter.deUpx(updateUpxPath, decryptedPath)
@@ -154,4 +154,4 @@ if __name__ == '__main__':
     else:
         print("Usage:\npython DeBooxUpdate.py <device name> [input file name]")
         print("Supported devices:")
-        print(" ".join(boox_strings.keys()))
+        print(" ".join(sorted(boox_strings.keys())))
