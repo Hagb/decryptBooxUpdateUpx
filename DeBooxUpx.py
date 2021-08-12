@@ -109,6 +109,12 @@ boox_strings = {
         "STRING_SETTINGS": "0WZeSahj4BlwNAJJkcSJEdktwbc2xdYhN+pEl+7XwuJv",
         "STRING_UPGRADE": "oRJROqUQ4xgcx7zvmLyPLeysH+cCU39EGXg77NZar8AP",
         "STRING_LOCAL": "z0YIfPx+vETibLDToPlDQPl54yE55JUFayfkx1+G"
+    },
+    'KonTiki2-ru': {
+        "MODEL": "Kon_Tiki2",
+        "STRING_SETTINGS": "eqxOVE1h8e8hbGNiV2ZHed6hMpcOH3vULx6XMm/WguZ1",
+        "STRING_UPGRADE": "dKA6Ik0R95nDwjGR/dfPwxkYYNBkfngJk51A2MlRxBsq",
+        "STRING_LOCAL": "bPBuYxkL37AYgKbD6nRxEL6EaFCFzFgPij53pTwH"
     }
 }
 
@@ -165,5 +171,5 @@ if __name__ == '__main__':
         print(f"Saved decrypted file to {decryptedPath}")
     else:
         print("Usage:\npython DeBooxUpdate.py <device name> [input file name]")
-        print("Supported devices:")
+        print("Supported devices: (those marked with suffix '-ru' are Russian models)")
         print(" ".join(sorted(boox_strings.keys())))
