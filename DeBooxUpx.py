@@ -121,6 +121,12 @@ boox_strings = {
         "STRING_SETTINGS": "Utaad8dgPmSgBOjFknI0PQAp/Sc+v71Hml0ldJIzecDx",
         "STRING_UPGRADE": "ItvgBbJhOxaKjMyiE/yDufmOWwHvTPNfxdOJ2XQTHXaO",
         "STRING_LOCAL": "PIe5RuMNYz8G5FmaqRUu2qHI0br1Is3too/sLts/"
+    },
+    'Poke_Pro': {
+        "MODEL": "Poke_Pro",
+        "STRING_SETTINGS": "6GxQ6Iei3y2PSf6Wlayz+0f6yVnl1GXe5OC3q3i2lasO",
+        "STRING_UPGRADE": "72lZ7vTQoy9/ESDKRQtx2V5uBMDiR+ik3n+soo9wGAbJ",
+        "STRING_LOCAL": "hkkAqdfM93RpnCgXxhUqzme3OMzT6tDWC3fyibgW"
     }
 }
 
