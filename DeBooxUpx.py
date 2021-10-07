@@ -153,9 +153,16 @@ class DeBooxUpx:
     def deUpxSteam(self, inputFile, outputFile):
         block: bytes = b'1'
         cipher = AES.new(self.key, AES.MODE_CFB, iv=self.iv, segment_size=128)
+        header_checked = False
         while block:
             block = inputFile.read(self.blockSize)
-            outputFile.write(cipher.decrypt(block))
+            decrypted_block = cipher.decrypt(block)
+            if not header_checked:
+                if decrypted_block[:4] != b'\x50\x4b\x03\x04':
+                    raise ValueError("The decrypted data seems not a zip package, "
+                                     "please ensure that the strings or model is correct.")
+                header_checked = True
+            outputFile.write(decrypted_block)
 
     def deUpx(self, inputFileName: str, outputFileName: str):
         inputFile = open(inputFileName, mode='rb', buffering=self.blockSize)
