@@ -127,6 +127,12 @@ boox_strings = {
         "STRING_SETTINGS": "6GxQ6Iei3y2PSf6Wlayz+0f6yVnl1GXe5OC3q3i2lasO",
         "STRING_UPGRADE": "72lZ7vTQoy9/ESDKRQtx2V5uBMDiR+ik3n+soo9wGAbJ",
         "STRING_LOCAL": "hkkAqdfM93RpnCgXxhUqzme3OMzT6tDWC3fyibgW"
+    },
+    'NovaAir': {
+        "MODEL": "NovaAir",
+        "STRING_SETTINGS": "6NTlwbVEYP1BPTdQE25u6TCpoCg988I/Cjcs0Wxrwa4O",
+        "STRING_UPGRADE": "66aRwLgxGv1vNmOsbVWp37OBy4RugvpZvUom3VQxWGrM",
+        "STRING_LOCAL": "9YDFh+EuTqFECXRvmEbL78mtW69CQRENjADM8A+L"
     }
 }
 
