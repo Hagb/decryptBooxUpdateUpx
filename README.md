@@ -149,6 +149,8 @@ Other strings can be got in following steps:
        
       `settings` is `STRING_SETTINGS`, `upgrade` is `STRING_UPGRADE`, and `local` is `STRING_LOCAL`
 
+      Maybe in Boox OS since Android 11, these strings, which have been moved to `libota_jni.so`, are empty in `strings.xml`. In this case, please refer to [22#issuecomment-964035840](https://github.com/Hagb/decryptBooxUpdateUpx/issues/22#issuecomment-964035840).
+
 3. Add and verify (optional) the strings
 
     Add the strings to `boox_strings` in [DeBooxUpx.py](DeBooxUpx.py), use this script to decrypt a `update.upx` file (it can be got by [the method in #2](https://github.com/Hagb/decryptBooxUpdateUpx/issues/2#issuecomment-704006389)), and see if the `update.zip` file is a vaild zip file.
