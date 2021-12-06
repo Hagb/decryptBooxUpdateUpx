@@ -134,7 +134,7 @@ boox_strings = {
         "STRING_UPGRADE": "66aRwLgxGv1vNmOsbVWp37OBy4RugvpZvUom3VQxWGrM",
         "STRING_LOCAL": "9YDFh+EuTqFECXRvmEbL78mtW69CQRENjADM8A+L"
     },
-    'SP_NoteS': {
+    'SP_NoteSL': {
         "MODEL": "SP_NoteS",
         "STRING_SETTINGS": "XjzywnKKh3FNVKphg5MZ9xILmDNYBZiCHTnkd6Q0fqpq",
         "STRING_UPGRADE": "XDeIyQKAhQKj6/UmdAIWoL0aXmw9PeEFl9OpII/1TO9i",
