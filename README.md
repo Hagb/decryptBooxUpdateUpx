@@ -74,6 +74,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |KonTiki2-ru|`Kon_Tiki2` |`eqxOVE1h8e8hbGNiV2ZHed6hMpcOH3vULx6XMm/WguZ1`|`dKA6Ik0R95nDwjGR/dfPwxkYYNBkfngJk51A2MlRxBsq`|`bPBuYxkL37AYgKbD6nRxEL6EaFCFzFgPij53pTwH`|
 |   Max3   |   `Max3`   |`1wdvUHZmcz32N1pgG4fkHmDsTDVihMJsPCNV4mW/6u1k`|`3nxuLgdpBE3B3n1Yyymt4cOS8dNucfQxK8YOsmcemuyO`|`yCA9YlFxLBdLbDUl3vwzPkn9vtYuVFZCfhrOTvR1`|
 | MaxLumi  | `MaxLumi`  |`mTZFN0K+oMcGnn2n7+zV5DH7kr/Hbes2x/wKDJp6K7Kq`|`mj0zR0Oy3L4R+6y49MIEQT9bdx9AVz8TWyG9q3N+d9VY`|`hWAUdhOp9ekIYxIW+LpVj6OviWBbCbRa1c7s1jtW`|
+| MaxLumi2 | `MaxLumi2` |`zR5/dfK/2XhmwhA9AIGr+gx6Vzho5sbklSTjLAgnC8/C`|`zh98dPzN0QdwbRem1Yfx28DFxU+Gkvg4MpLDIp0GorRU`|`                                        `|
 |   Note   |   `Note`   |`0WZeSahj4BlwNAJJkcSJEdktwbc2xdYhN+pEl+7XwuJv`|`oRJROqUQ4xgcx7zvmLyPLeysH+cCU39EGXg77NZar8AP`|`z0YIfPx+vETibLDToPlDQPl54yE55JUFayfkx1+G`|
 |  Note2   |  `Note2`   |`etwiPPEXAQRj3m+e0Q2FOxT16aJ8XexQAqhGn5NqZWv1`|`et0jSPpmd3ueGHLmMf+2yyXVn18sa2HrDg56dCTFH6lf`|`YY9wfqN7K1LlSug47Tr5Y8QkDHmmJ4VDCJ58mhoV`|
 |  Note3   |  `Note3`   |`uTiMM5JgTXOCZAZKMcZIzc1yQpfX1+jxTFOred3te4z9`|`zEf3SZ8TOADA8QuwOHicGLrrc4EA7sffKfc01TlUfe/q`|`pmXVBMt5EllxXhD9L6/NWH/pTZXRURP6QLsrNlx6`|

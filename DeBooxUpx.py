@@ -145,6 +145,11 @@ boox_strings = {
         "STRING_SETTINGS": "+YKimeg208RzM8InqtuUjSIopyM2OLIMpFeeTQby2Au4",
         "STRING_UPGRADE": "+vap6p4w0MaT5A8RB4+ru3gnFtIq2g4K+tcjQjy3N599",
         "STRING_LOCAL": "5qT7388vj+/FwLMX/cIXSCgSxSIg9SAf0tB4NcEI"
+    },
+    "MaxLumi2": {
+        "MODEL": "MaxLumi2",
+        "STRING_SETTINGS": "zR5/dfK/2XhmwhA9AIGr+gx6Vzho5sbklSTjLAgnC8/C",
+        "STRING_UPGRADE": "zh98dPzN0QdwbRem1Yfx28DFxU+Gkvg4MpLDIp0GorRU"
     }
 }
 

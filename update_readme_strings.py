@@ -10,7 +10,7 @@ table_header = f"""|{'': ^{model_width}}|{'MODEL': ^{model_width+2}}|{'STRING_SE
 |{'-'*(model_width)}|{'-'*(model_width+2)}|{'-'*46}|{'-'*46}|{'-'*42}|
 """
 table = table_header + '\n'.join(
-    f"|{name: ^{model_width}}|{'`'+string['MODEL']+'`': ^{model_width+2}}|`{string['STRING_SETTINGS']}`|`{string['STRING_UPGRADE']}`|`{string['STRING_LOCAL']}`|"
+    f"|{name: ^{model_width}}|{'`'+string['MODEL']+'`': ^{model_width+2}}|`{string['STRING_SETTINGS']}`|`{string['STRING_UPGRADE']}`|`{string.get('STRING_LOCAL') or ' '*40}`|"
     for name, string in models)
 with open('README.md', 'w') as readme:
     readme.write(
