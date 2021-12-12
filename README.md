@@ -149,7 +149,7 @@ Other strings can be got in following steps:
        
       `settings` is `STRING_SETTINGS`, `upgrade` is `STRING_UPGRADE`, and `local` is `STRING_LOCAL`
 
-      Maybe in Boox OS since Android 11, these strings, which have been moved to `libota_jni.so`, are empty in `strings.xml`. In this case, please refer to [22#issuecomment-964035840](https://github.com/Hagb/decryptBooxUpdateUpx/issues/22#issuecomment-964035840).
+      In Boox OS since Android 11, these strings, which have been moved to `libota_jni.so`, are empty in `strings.xml`. In this case, please install and run [GetBooxUpxKeys](https://github.com/Hagb/GetBooxUpxKeysApp/releases) in your device to get keys, or refer to [22#issuecomment-964035840](https://github.com/Hagb/decryptBooxUpdateUpx/issues/22#issuecomment-964035840).
 
 3. Add and verify (optional) the strings
 
