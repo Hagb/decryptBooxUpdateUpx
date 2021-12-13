@@ -150,6 +150,11 @@ boox_strings = {
         "MODEL": "MaxLumi2",
         "STRING_SETTINGS": "zR5/dfK/2XhmwhA9AIGr+gx6Vzho5sbklSTjLAgnC8/C",
         "STRING_UPGRADE": "zh98dPzN0QdwbRem1Yfx28DFxU+Gkvg4MpLDIp0GorRU"
+    },
+    "NoteX": {
+        "MODEL": "NoteX",
+        "STRING_SETTINGS": "xhffOONo9wDGZquv93yJoLm0z6igW+XL17PUyfR8ky4l",
+        "STRING_UPGRADE": "zBGvTe9t8HZQXu2Q85Dl0iI9R9tEg2VRw/8cEYXauU3o"
     }
 }
 
