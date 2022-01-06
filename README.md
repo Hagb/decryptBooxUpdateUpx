@@ -72,6 +72,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |          |   MODEL    |               STRING_SETTINGS                |                STRING_UPGRADE                |               STRING_LOCAL               |
 |----------|------------|----------------------------------------------|----------------------------------------------|------------------------------------------|
 |KonTiki2-ru|`Kon_Tiki2` |`eqxOVE1h8e8hbGNiV2ZHed6hMpcOH3vULx6XMm/WguZ1`|`dKA6Ik0R95nDwjGR/dfPwxkYYNBkfngJk51A2MlRxBsq`|`bPBuYxkL37AYgKbD6nRxEL6EaFCFzFgPij53pTwH`|
+|   Leaf   |   `Leaf`   |`kh5V130fLNcO5lgsSDq7aUxQOz98DzEmiur3YsYKreIs`|`kBtW135kW9zvvgRlsTolCktkJ7+MeW5ZoNgr3xyr2SpX`|`jzx1lloJdIBGjmcyS9oYPmXvTKFp4dpj66fPcaON`|
 |   Max3   |   `Max3`   |`1wdvUHZmcz32N1pgG4fkHmDsTDVihMJsPCNV4mW/6u1k`|`3nxuLgdpBE3B3n1Yyymt4cOS8dNucfQxK8YOsmcemuyO`|`yCA9YlFxLBdLbDUl3vwzPkn9vtYuVFZCfhrOTvR1`|
 | MaxLumi  | `MaxLumi`  |`mTZFN0K+oMcGnn2n7+zV5DH7kr/Hbes2x/wKDJp6K7Kq`|`mj0zR0Oy3L4R+6y49MIEQT9bdx9AVz8TWyG9q3N+d9VY`|`hWAUdhOp9ekIYxIW+LpVj6OviWBbCbRa1c7s1jtW`|
 | MaxLumi2 | `MaxLumi2` |`zR5/dfK/2XhmwhA9AIGr+gx6Vzho5sbklSTjLAgnC8/C`|`zh98dPzN0QdwbRem1Yfx28DFxU+Gkvg4MpLDIp0GorRU`|`                                        `|

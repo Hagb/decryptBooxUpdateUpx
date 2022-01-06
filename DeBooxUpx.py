@@ -155,6 +155,12 @@ boox_strings = {
         "MODEL": "NoteX",
         "STRING_SETTINGS": "xhffOONo9wDGZquv93yJoLm0z6igW+XL17PUyfR8ky4l",
         "STRING_UPGRADE": "zBGvTe9t8HZQXu2Q85Dl0iI9R9tEg2VRw/8cEYXauU3o"
+    },
+    'Leaf': {
+        "MODEL": "Leaf",
+        "STRING_SETTINGS": "kh5V130fLNcO5lgsSDq7aUxQOz98DzEmiur3YsYKreIs",
+        "STRING_UPGRADE": "kBtW135kW9zvvgRlsTolCktkJ7+MeW5ZoNgr3xyr2SpX",
+        "STRING_LOCAL": "jzx1lloJdIBGjmcyS9oYPmXvTKFp4dpj66fPcaON"
     }
 }
 
