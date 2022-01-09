@@ -98,6 +98,11 @@ boox_strings = {
         "STRING_UPGRADE": "VD1ZqgIl08305CVeftRI7qGBtq9bCMrJ3a1VkpkzjOu2",
         "STRING_LOCAL": "PW8K6VI//Zt6iqjYQWN0LIwRTVYyDHJvHNEXFwWV"
     },
+    'NoteAir2': {
+        "MODEL": "NoteAir2",
+        "STRING_SETTINGS": "iCTAyj86sQAvF/XUuLBO2dS4AWZVJsy+pPmvR9wkKqhe",
+        "STRING_UPGRADE": "iCbPzTBHtXSRc3HdNnswRPX6Vp222OGR/rgGb3ZYtKIM"
+    },
     "Nova3Color": {
         "MODEL": "Nova3Color",
         "STRING_SETTINGS": "5VJqMbDB52k04k29Wc4itQBtLTRDq5kEdQaQ+GZ324PC",
