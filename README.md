@@ -23,10 +23,11 @@ pip install pycryptodome
 You can run the application by putting `update.upx` file in the project directory and running
 
 ```bash
-python DeBooxUpx.py <device model> [input file name]
+python DeBooxUpx.py <device model> [input file name [output file name]]
 ```
 
-`<device model>` is required, `[input file name]` is optional.  
+`<device model>` is required, and `[input file name [output file name]]` is optional. The input file will be `update.upx` and the output file will be saved in the current working directory, if not set in the arguments.
+
 For list of currently supported models please refer to the [table](#the-strings).
 
 ## API

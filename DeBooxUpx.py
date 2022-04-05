@@ -224,14 +224,18 @@ class DeBooxUpx:
 
 if __name__ == '__main__':
     import sys
-    if len(sys.argv) >= 2:
+    if 2 <= len(sys.argv) <= 4:
         device_name = sys.argv[1]
         updateUpxPath = "update.upx" if len(sys.argv) == 2 else sys.argv[2]
-        name = updateUpxPath[:-4]
-        ext = updateUpxPath[-4:].lower()
-        decryptedPath = name + '.zip' if ext == '.upx' else updateUpxPath + '.zip'
+        if len(sys.argv) == 4:
+            decryptedPath = sys.argv[3]
+        else:
+            import os.path
+            basename = os.path.basename(updateUpxPath)
+            name, ext = os.path.splitext(basename)
+            decryptedPath = name + '.zip' if ext == '.upx' else basename + '.zip'
         if device_name not in boox_strings.keys():
-            print("Following device is not supported, or the name is wrong")
+            print(f'The device "{device_name}" is not supported, or the name is wrong')
             print("Supported devices:")
             print(" ".join(sorted(boox_strings.keys())))
             sys.exit()
@@ -239,6 +243,6 @@ if __name__ == '__main__':
         decrypter.deUpx(updateUpxPath, decryptedPath)
         print(f"Saved decrypted file to {decryptedPath}")
     else:
-        print("Usage:\npython DeBooxUpdate.py <device name> [input file name]")
+        print("Usage:\npython DeBooxUpdate.py <device name> [input file name [output file name]]")
         print("Supported devices: (those marked with suffix '-ru' are Russian models)")
         print(" ".join(sorted(boox_strings.keys())))
