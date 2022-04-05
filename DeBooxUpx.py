@@ -166,6 +166,12 @@ boox_strings = {
         "STRING_SETTINGS": "kh5V130fLNcO5lgsSDq7aUxQOz98DzEmiur3YsYKreIs",
         "STRING_UPGRADE": "kBtW135kW9zvvgRlsTolCktkJ7+MeW5ZoNgr3xyr2SpX",
         "STRING_LOCAL": "jzx1lloJdIBGjmcyS9oYPmXvTKFp4dpj66fPcaON"
+    },
+    "Gulliver-ru": {
+        "MODEL": "MC_GULLIVER",
+        "STRING_SETTINGS": "wDNy4yMayA4nnQfzAYYqV3ih6uu363MoyfhaX9MtbCQk",
+        "STRING_UPGRADE": "xzUDklMaz39aPNJAl45ca7c3hOrBQlNYZh+iZdK64fIo",
+        "STRING_LOCAL": "3xRR0nR2lFLKpw5g71X5JGqc0/hZQhmJM9idyx1b"
     }
 }
 
