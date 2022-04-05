@@ -172,6 +172,11 @@ boox_strings = {
         "STRING_SETTINGS": "wDNy4yMayA4nnQfzAYYqV3ih6uu363MoyfhaX9MtbCQk",
         "STRING_UPGRADE": "xzUDklMaz39aPNJAl45ca7c3hOrBQlNYZh+iZdK64fIo",
         "STRING_LOCAL": "3xRR0nR2lFLKpw5g71X5JGqc0/hZQhmJM9idyx1b"
+    },
+    'NovaAirC': {
+        "MODEL": "NovaAirC",
+        "STRING_SETTINGS": "ycihhTCxjfQO85KdVPvpA1ZzCPr3eJ/KhcKEKlqMhEfR",
+        "STRING_UPGRADE": "zsnQgzXEhvsfL4pk48rtEckIPyDedhybURHP198tag+Z"
     }
 }
 
