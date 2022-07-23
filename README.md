@@ -100,6 +100,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |  Poke3   |  `Poke3`   |`lU95mOkt0cGucrsrIdAWuYnoJEnTTfIvu/QNUlcmI42A`|`kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP`|`iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV`|
 | Poke_Pro | `Poke_Pro` |`6GxQ6Iei3y2PSf6Wlayz+0f6yVnl1GXe5OC3q3i2lasO`|`72lZ7vTQoy9/ESDKRQtx2V5uBMDiR+ik3n+soo9wGAbJ`|`hkkAqdfM93RpnCgXxhUqzme3OMzT6tDWC3fyibgW`|
 |SP_NoteSL | `SP_NoteS` |`XjzywnKKh3FNVKphg5MZ9xILmDNYBZiCHTnkd6Q0fqpq`|`XDeIyQKAhQKj6/UmdAIWoL0aXmw9PeEFl9OpII/1TO9i`|`QmGqhFGXqiuQ9yoeVx0a2SQ8BNojjPn96o6hQW6U`|
+|livingstone-ru|`LIVINGSTONE`|`ES5zbiHTesxFb+zdkjxiqJ+1dOwyOCv2BzCV7fOYDJxf`|`EFwGaFSherxX1k6Hl/U6TiQhGJOzTPDfsPzHg+z9guln`|`fQ5TLnfKUOHq0f7XXdu9b1FGAckqI576ZBPkZfPg`|
 <!--(strings table end)-->
 
 The models sold in Russia are marked with suffix `-ru`, **some or all of the firmwares for which don't use the same strings with their international versions!**

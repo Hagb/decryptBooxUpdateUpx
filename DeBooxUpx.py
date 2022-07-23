@@ -177,6 +177,12 @@ boox_strings = {
         "MODEL": "NovaAirC",
         "STRING_SETTINGS": "ycihhTCxjfQO85KdVPvpA1ZzCPr3eJ/KhcKEKlqMhEfR",
         "STRING_UPGRADE": "zsnQgzXEhvsfL4pk48rtEckIPyDedhybURHP198tag+Z"
+    },
+    'livingstone-ru': {
+        "MODEL": "LIVINGSTONE",
+        "STRING_SETTINGS": "ES5zbiHTesxFb+zdkjxiqJ+1dOwyOCv2BzCV7fOYDJxf",
+        "STRING_UPGRADE": "EFwGaFSherxX1k6Hl/U6TiQhGJOzTPDfsPzHg+z9guln",
+        "STRING_LOCAL": "fQ5TLnfKUOHq0f7XXdu9b1FGAckqI576ZBPkZfPg"
     }
 }
 
