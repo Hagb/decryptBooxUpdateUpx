@@ -91,6 +91,11 @@ boox_strings = {
         "STRING_UPGRADE": "JLe4ijbRcj5L8S9cRPRGL7eoEIKjT8OOblhy/wyvSbze",
         "STRING_LOCAL": "SODgyWbHLhfjy4WWk6lhqhYXnP1FTjSjtzMTyZkl",
     },
+   'Poke4Lite': {
+        "MODEL": "Poke4Lite",
+        "STRING_SETTINGS": "9SHJReeuD4hvqiwtY8mNlKTYqGkvgao4d9/9og7/EXhV",
+        "STRING_UPGRADE": "hiDOQumqD/7tGPsr5l69IdujC33cOPwOQw6C9wE8s8Xn"
+    },
     'Nova': {
         "MODEL": "Nova",
         "STRING_SETTINGS": "L0uopm+jYaWWf/0e/POLt0kkBuS3H+5axpS6cqUpn4ft",

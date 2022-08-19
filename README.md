@@ -84,7 +84,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |  Note3   |  `Note3`   |`uTiMM5JgTXOCZAZKMcZIzc1yQpfX1+jxTFOred3te4z9`|`zEf3SZ8TOADA8QuwOHicGLrrc4EA7sffKfc01TlUfe/q`|`pmXVBMt5EllxXhD9L6/NWH/pTZXRURP6QLsrNlx6`|
 | NoteAir  | `NoteAir`  |`U04vqHYo0LFoJQAvP3Rs1aBxySs7z4T1B+asamimEoAf`|`VD1ZqgIl08305CVeftRI7qGBtq9bCMrJ3a1VkpkzjOu2`|`PW8K6VI//Zt6iqjYQWN0LIwRTVYyDHJvHNEXFwWV`|
 | NoteAir2 | `NoteAir2` |`iCTAyj86sQAvF/XUuLBO2dS4AWZVJsy+pPmvR9wkKqhe`|`iCbPzTBHtXSRc3HdNnswRPX6Vp222OGR/rgGb3ZYtKIM`|`                                        `|
-| NoteAir2P | `NoteAir2P` |`9dRjKa5Bv6SumZaiR6B5Bmxgu/JuRoSCdqVEX1P8itHp`|`9aBiXK02yte/JCfSq1/AtQg74phmxvZv1dGaRVsM646e`|`                                        `|
+|NoteAir2P |`NoteAir2P` |`9dRjKa5Bv6SumZaiR6B5Bmxgu/JuRoSCdqVEX1P8itHp`|`9aBiXK02yte/JCfSq1/AtQg74phmxvZv1dGaRVsM646e`|`                                        `|
 | NotePro  | `NotePro`  |`MjR72bOazBUacJwDcuWgtm/E0A9F9ahIt1buweEPA020`|`RjV8r7+fx2Wjp6rUSrBOpmqYnHKs7eReqTTcy9k4c3tn`|`W2co6eaDmEl7jIjOSqr11C71RDHHiV3p5oG2G54X`|
 |  NoteS   |  `NoteS`   |`+YKimeg208RzM8InqtuUjSIopyM2OLIMpFeeTQby2Au4`|`+vap6p4w0MaT5A8RB4+ru3gnFtIq2g4K+tcjQjy3N599`|`5qT7388vj+/FwLMX/cIXSCgSxSIg9SAf0tB4NcEI`|
 |  NoteX   |  `NoteX`   |`xhffOONo9wDGZquv93yJoLm0z6igW+XL17PUyfR8ky4l`|`zBGvTe9t8HZQXu2Q85Dl0iI9R9tEg2VRw/8cEYXauU3o`|`                                        `|
@@ -100,6 +100,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |  PadMu3  | `PadMuAP3` |`TCP3lGFLuxm7wOXWnaomQAdYikpFPAOj5U2LK0Dck3Un`|`PC3wkRM4zhgstNIQLGR+dW9jourXdEXZXU/mN7bTACu0`|`In/UoUFVkUdHTCqlSfCgKi8MEZGHK0Xc70Y5trXs`|
 |Poke2Color|`Poke2Color`|`I7ewiUSud0x9auT0PKp29393K5Hg3ymr1VJY5eUhoHEm`|`JLe4ijbRcj5L8S9cRPRGL7eoEIKjT8OOblhy/wyvSbze`|`SODgyWbHLhfjy4WWk6lhqhYXnP1FTjSjtzMTyZkl`|
 |  Poke3   |  `Poke3`   |`lU95mOkt0cGucrsrIdAWuYnoJEnTTfIvu/QNUlcmI42A`|`kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP`|`iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV`|
+|Poke4Lite |`Poke4Lite` |`9SHJReeuD4hvqiwtY8mNlKTYqGkvgao4d9/9og7/EXhV`|`hiDOQumqD/7tGPsr5l69IdujC33cOPwOQw6C9wE8s8Xn`|`                                        `|
 |  Poke4S  |  `Poke4S`  |`iq8+KrwLX7JGcq/B823vpSmVn5CJR2QscYDeArKjtn0B`|`+txDKcp4Kse6Ve1kBswZWQ68i+Kpab8BoXDrgpmqQrjz`|`                                        `|
 | Poke_Pro | `Poke_Pro` |`6GxQ6Iei3y2PSf6Wlayz+0f6yVnl1GXe5OC3q3i2lasO`|`72lZ7vTQoy9/ESDKRQtx2V5uBMDiR+ik3n+soo9wGAbJ`|`hkkAqdfM93RpnCgXxhUqzme3OMzT6tDWC3fyibgW`|
 |SP_NoteSL | `SP_NoteS` |`XjzywnKKh3FNVKphg5MZ9xILmDNYBZiCHTnkd6Q0fqpq`|`XDeIyQKAhQKj6/UmdAIWoL0aXmw9PeEFl9OpII/1TO9i`|`QmGqhFGXqiuQ9yoeVx0a2SQ8BNojjPn96o6hQW6U`|
