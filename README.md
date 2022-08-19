@@ -83,6 +83,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |  Note3   |  `Note3`   |`uTiMM5JgTXOCZAZKMcZIzc1yQpfX1+jxTFOred3te4z9`|`zEf3SZ8TOADA8QuwOHicGLrrc4EA7sffKfc01TlUfe/q`|`pmXVBMt5EllxXhD9L6/NWH/pTZXRURP6QLsrNlx6`|
 | NoteAir  | `NoteAir`  |`U04vqHYo0LFoJQAvP3Rs1aBxySs7z4T1B+asamimEoAf`|`VD1ZqgIl08305CVeftRI7qGBtq9bCMrJ3a1VkpkzjOu2`|`PW8K6VI//Zt6iqjYQWN0LIwRTVYyDHJvHNEXFwWV`|
 | NoteAir2 | `NoteAir2` |`iCTAyj86sQAvF/XUuLBO2dS4AWZVJsy+pPmvR9wkKqhe`|`iCbPzTBHtXSRc3HdNnswRPX6Vp222OGR/rgGb3ZYtKIM`|`                                        `|
+| NoteAir2P | `NoteAir2P` |`9dRjKa5Bv6SumZaiR6B5Bmxgu/JuRoSCdqVEX1P8itHp`|`9aBiXK02yte/JCfSq1/AtQg74phmxvZv1dGaRVsM646e`|`                                        `|
 | NotePro  | `NotePro`  |`MjR72bOazBUacJwDcuWgtm/E0A9F9ahIt1buweEPA020`|`RjV8r7+fx2Wjp6rUSrBOpmqYnHKs7eReqTTcy9k4c3tn`|`W2co6eaDmEl7jIjOSqr11C71RDHHiV3p5oG2G54X`|
 |  NoteS   |  `NoteS`   |`+YKimeg208RzM8InqtuUjSIopyM2OLIMpFeeTQby2Au4`|`+vap6p4w0MaT5A8RB4+ru3gnFtIq2g4K+tcjQjy3N599`|`5qT7388vj+/FwLMX/cIXSCgSxSIg9SAf0tB4NcEI`|
 |  NoteX   |  `NoteX`   |`xhffOONo9wDGZquv93yJoLm0z6igW+XL17PUyfR8ky4l`|`zBGvTe9t8HZQXu2Q85Dl0iI9R9tEg2VRw/8cEYXauU3o`|`                                        `|
