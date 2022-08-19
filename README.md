@@ -2,9 +2,11 @@
 
 Have been tested only in [these Boox ereaders](#the-strings). If you found it available for any other Boox ereader, please [submit the strings](CONTRIBUTING.md#new-strings).
 
-Note1: There is also [another method to fetch decrypted `update.zip`](https://github.com/Hagb/decryptBooxUpdateUpx/issues/1) from [@shunf4](https://github.com/shunf4).
+Note 1: There is also [another method to fetch decrypted `update.zip`](https://github.com/Hagb/decryptBooxUpdateUpx/issues/1) from [@shunf4](https://github.com/shunf4).
 
-Note2: There is [a way to get downloading url of latest firmware](https://github.com/Hagb/decryptBooxUpdateUpx/issues/2#issuecomment-704006389).
+Note 2: There is [a way to get downloading url of latest firmware](https://github.com/Hagb/decryptBooxUpdateUpx/issues/2#issuecomment-704006389).
+
+Note 3: `payload.bin` can be extracted with <https://github.com/cyxx/extract_android_ota_payload>.
 
 Any other issue and pull request is also welcomed!
 
