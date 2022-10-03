@@ -80,6 +80,11 @@ boox_strings = {
         "STRING_UPGRADE": "kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP",
         "STRING_LOCAL": "iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV",
     },
+    'Poke4': {
+        "MODEL": "Poke4",
+        "STRING_SETTINGS": "uTKx3XVyRhlbI7hoHuy/NiYdwlWViPlc4EecZKYTThN/",
+        "STRING_UPGRADE": "vzDFqwIEMRfqTPUCV82ahjnz0hXfcZCIxRY8ljuLmTaf",
+    },
     'Poke4S': {
         "MODEL": "Poke4S",
         "STRING_SETTINGS": "iq8+KrwLX7JGcq/B823vpSmVn5CJR2QscYDeArKjtn0B",

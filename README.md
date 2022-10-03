@@ -102,6 +102,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |  PadMu3  | `PadMuAP3` |`TCP3lGFLuxm7wOXWnaomQAdYikpFPAOj5U2LK0Dck3Un`|`PC3wkRM4zhgstNIQLGR+dW9jourXdEXZXU/mN7bTACu0`|`In/UoUFVkUdHTCqlSfCgKi8MEZGHK0Xc70Y5trXs`|
 |Poke2Color|`Poke2Color`|`I7ewiUSud0x9auT0PKp29393K5Hg3ymr1VJY5eUhoHEm`|`JLe4ijbRcj5L8S9cRPRGL7eoEIKjT8OOblhy/wyvSbze`|`SODgyWbHLhfjy4WWk6lhqhYXnP1FTjSjtzMTyZkl`|
 |  Poke3   |  `Poke3`   |`lU95mOkt0cGucrsrIdAWuYnoJEnTTfIvu/QNUlcmI42A`|`kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP`|`iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV`|
+|  Poke4   |  `Poke4`   |`uTKx3XVyRhlbI7hoHuy/NiYdwlWViPlc4EecZKYTThN/`|`vzDFqwIEMRfqTPUCV82ahjnz0hXfcZCIxRY8ljuLmTaf`|`                                        `|
 |Poke4Lite |`Poke4Lite` |`9SHJReeuD4hvqiwtY8mNlKTYqGkvgao4d9/9og7/EXhV`|`hiDOQumqD/7tGPsr5l69IdujC33cOPwOQw6C9wE8s8Xn`|`                                        `|
 |  Poke4S  |  `Poke4S`  |`iq8+KrwLX7JGcq/B823vpSmVn5CJR2QscYDeArKjtn0B`|`+txDKcp4Kse6Ve1kBswZWQ68i+Kpab8BoXDrgpmqQrjz`|`                                        `|
 | Poke_Pro | `Poke_Pro` |`6GxQ6Iei3y2PSf6Wlayz+0f6yVnl1GXe5OC3q3i2lasO`|`72lZ7vTQoy9/ESDKRQtx2V5uBMDiR+ik3n+soo9wGAbJ`|`hkkAqdfM93RpnCgXxhUqzme3OMzT6tDWC3fyibgW`|
