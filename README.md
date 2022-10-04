@@ -114,7 +114,7 @@ The models sold in Russia are marked with suffix `-ru`, **some or all of the fir
 
 PS: SP\_NoteS is SuperStar (chaoxing) verison.
 
-### How to get the strings
+### How to get the strings (Method 1, for Android <= 10)
 
 `MODEL` string is the model name, exactly the output of `getprop ro.product.model` and/or value of `ro.product.model` in the file `/system/build.prop`.
 
@@ -163,11 +163,73 @@ Other strings can be got in following steps:
        
       `settings` is `STRING_SETTINGS`, `upgrade` is `STRING_UPGRADE`, and `local` is `STRING_LOCAL`
 
-      In Boox OS since Android 11, these strings, which have been moved to `libota_jni.so`, are empty in `strings.xml`. In this case, please install and run [GetBooxUpxKeys](https://github.com/Hagb/GetBooxUpxKeysApp/releases) in your device to get keys, or refer to [22#issuecomment-964035840](https://github.com/Hagb/decryptBooxUpdateUpx/issues/22#issuecomment-964035840).
-
 3. Add and verify (optional) the strings
 
     Add the strings to `boox_strings` in [DeBooxUpx.py](DeBooxUpx.py), use this script to decrypt a `update.upx` file (it can be got by [the method in #2](https://github.com/Hagb/decryptBooxUpdateUpx/issues/2#issuecomment-704006389)), and see if the `update.zip` file is a vaild zip file.
+
+### How to get the strings (Method 2, for Android >= 11)
+
+In Boox OS since Android 11, these strings, which have been moved to `libota_jni.so`, are empty in `strings.xml`. In this case, please install and run [GetBooxUpxKeys](https://github.com/Hagb/GetBooxUpxKeysApp/releases) in your device to get keys, or refer to [22#issuecomment-964035840](https://github.com/Hagb/decryptBooxUpdateUpx/issues/22#issuecomment-964035840).
+
+This method requires you install an apk in your device.
+
+### How to get the strings (Method 3, for Android >= 11)
+
+If you don't want to install the apk in **Method 2**, you can use **Method 3**. This method uses the emulator to get the strings.
+
+`MODEL` string is the model name, exactly the output of `getprop ro.product.model` and/or value of `ro.product.model` in the file `/system/build.prop`.
+
+Other strings can be got in following steps:
+
+1. Get `/system/lib/libota_jni.so` (for 32-bit device) or `/system/lib64/libota_jni.so` (for 64-bit device)
+
+    Connect to device via `adb` as above. Then execute command:
+
+    ```
+    adb pull /system/lib/libota_jni.so
+    ```
+
+    or
+
+    ```
+    adb pull /system/lib64/libota_jni.so
+    ```
+
+2. Prepare environment
+
+    Clone the submodule.
+
+    ```
+    git submodule init
+    git submodule update
+    ```
+
+    Install python dependencies.
+
+    ```
+    pip3 install unicorn capstone
+    ```
+
+3. Execute `ota_jni.py`
+
+    ```
+    python ota_jni.py libota_jni.so
+    ERROR:androidemu.internal.modules:=> Undefined external symbol:
+    ERROR:androidemu.internal.modules:=> Undefined external symbol: __cxa_finalize
+    ERROR:androidemu.internal.modules:=> Undefined external symbol: __register_atfork
+    ERROR:androidemu.internal.modules:=> Undefined external symbol: __cxa_atexit
+    ro.kernel.qemu was not found in system_properties dictionary.
+    libc.debug.malloc was not found in system_properties dictionary.
+    WARNING:root:File does not exist '/proc/stat'
+    WARNING:androidemu.internal.modules:libcrypto.so needed by libota_jni.so do not exist in vfs ExAndroidNativeEmu/vfs
+    WARNING:androidemu.internal.modules:libutils.so needed by libota_jni.so do not exist in vfs ExAndroidNativeEmu/vfs
+    ----------------
+    STRING_SETTINGS uTKx3XVyRhlbI7hoHuy/NiYdwlWViPlc4EecZKYTThN/
+    STRING_UPGRADE vzDFqwIEMRfqTPUCV82ahjnz0hXfcZCIxRY8ljuLmTaf
+    ```
+    
+    You can test this method with `python ota_jni.py test/libota_jni.so`, which should give the above output.
+
 
 ## Contributing
 

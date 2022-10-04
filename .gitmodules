@@ -1,0 +1,3 @@
+[submodule "ExAndroidNativeEmu"]
+	path = ExAndroidNativeEmu
+	url = https://github.com/maiyao1988/ExAndroidNativeEmu.git
