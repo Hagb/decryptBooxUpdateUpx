@@ -204,6 +204,11 @@ boox_strings = {
         "STRING_SETTINGS": "vtIkV3LyRAzlnqbIHX3PFsRUI4iP6AgBDlYmkw8OtkZQ",
         "STRING_UPGRADE": "uqhRVHL0SwBFPHF8wgyzGaR9XhIlkW/1ab0p7UjuDCjo",
         "STRING_LOCAL": "pvRyElGZH1rWeTUPJ8K3uV2MqyYmjpYYTW2y1Grc"
+    },
+    'Leaf2': {
+        "MODEL": "Leaf2",
+        "STRING_SETTINGS": "okRZqgfOHft/Y5jHx1N0ECjqrc/Op/nADFj2uL7Jbuxq",
+        "STRING_UPGRADE": "10Na33u5HfsCVHqjtwLrwACOW+2cz5MSnXUogONCTd9c",
     }
 }
 
