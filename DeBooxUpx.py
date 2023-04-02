@@ -209,7 +209,12 @@ boox_strings = {
         "STRING_SETTINGS": "vtIkV3LyRAzlnqbIHX3PFsRUI4iP6AgBDlYmkw8OtkZQ",
         "STRING_UPGRADE": "uqhRVHL0SwBFPHF8wgyzGaR9XhIlkW/1ab0p7UjuDCjo",
         "STRING_LOCAL": "pvRyElGZH1rWeTUPJ8K3uV2MqyYmjpYYTW2y1Grc"
-    }
+    },
+    'Tab8': {
+        "MODEL": "Tab8",
+        "STRING_SETTINGS": "Yjr0qRHMwEvCt4U3K5QtAVT97968eeMOFF2zx6f6ctFg",
+        "STRING_UPGRADE": "E0+HqBG5s0Z9WT+eKt0oTL2BucEMDdsaElDGQQFOV9uF"
+    },
 }
 
 
