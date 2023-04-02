@@ -100,6 +100,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 | NovaPlus | `NovaPlus` |`MtoBkApRAVwzdGe2CTnaE4MIgevRYNQfaKo606tyUQNY`|`Nttwkwxaei8xorBu/uUBpUu8nNZHTRIAZMZc0xrJs9Ti`|`LIYj1F9NVXFrOfi24/C76gFFxHYSCJ4mfhYI4q5w`|
 | NovaPro  | `NovaPro`  |`j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ`|`+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag`|`lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF`|
 |  PadMu3  | `PadMuAP3` |`TCP3lGFLuxm7wOXWnaomQAdYikpFPAOj5U2LK0Dck3Un`|`PC3wkRM4zhgstNIQLGR+dW9jourXdEXZXU/mN7bTACu0`|`In/UoUFVkUdHTCqlSfCgKi8MEZGHK0Xc70Y5trXs`|
+|  Poke2   |  `Poke2`   |`Lu3Xbc5vobO/8sveD6qjO/LEYeqd199myw3pybHynUEO`|`WOqqHbls0bZ67ofyutQ+XG37zR09inkP+4G3Z/t9e7m6`|`QrzzLZp3/uz4MwBzb6SJ040+l8AshzAz1t/rG8B/`|
 |Poke2Color|`Poke2Color`|`I7ewiUSud0x9auT0PKp29393K5Hg3ymr1VJY5eUhoHEm`|`JLe4ijbRcj5L8S9cRPRGL7eoEIKjT8OOblhy/wyvSbze`|`SODgyWbHLhfjy4WWk6lhqhYXnP1FTjSjtzMTyZkl`|
 |  Poke3   |  `Poke3`   |`lU95mOkt0cGucrsrIdAWuYnoJEnTTfIvu/QNUlcmI42A`|`kjl4lOMqobWYQyqX4KzBGYS8Q0OwPSfqwf29ymkypULP`|`iW9b2bszjJhv3puv87HNQXLW3Fb5uQVhWnnKU4nV`|
 |  Poke4   |  `Poke4`   |`uTKx3XVyRhlbI7hoHuy/NiYdwlWViPlc4EecZKYTThN/`|`vzDFqwIEMRfqTPUCV82ahjnz0hXfcZCIxRY8ljuLmTaf`|`                                        `|
