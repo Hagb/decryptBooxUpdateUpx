@@ -74,6 +74,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 <!--(strings table begin)-->
 |          |   MODEL    |               STRING_SETTINGS                |                STRING_UPGRADE                |               STRING_LOCAL               |
 |----------|------------|----------------------------------------------|----------------------------------------------|------------------------------------------|
+|   FLOW   |   `FLOW`   |`tzct2Ic6HFZzobeHcxxJ/EVt9EKMUZcaGHMN/uHZjEYW`|`ukZbqPE8FiTbM2U12bfY4v0Xhwioj9zdKb5R2RuGL6/i`|`rGEKmqMjSX3+VMxtZNdDHF/ectjjqKIRuDMu5Mn2`|
 |Gulliver-ru|`MC_GULLIVER`|`wDNy4yMayA4nnQfzAYYqV3ih6uu363MoyfhaX9MtbCQk`|`xzUDklMaz39aPNJAl45ca7c3hOrBQlNYZh+iZdK64fIo`|`3xRR0nR2lFLKpw5g71X5JGqc0/hZQhmJM9idyx1b`|
 |KonTiki2-ru|`Kon_Tiki2` |`eqxOVE1h8e8hbGNiV2ZHed6hMpcOH3vULx6XMm/WguZ1`|`dKA6Ik0R95nDwjGR/dfPwxkYYNBkfngJk51A2MlRxBsq`|`bPBuYxkL37AYgKbD6nRxEL6EaFCFzFgPij53pTwH`|
 |   Leaf   |   `Leaf`   |`kh5V130fLNcO5lgsSDq7aUxQOz98DzEmiur3YsYKreIs`|`kBtW135kW9zvvgRlsTolCktkJ7+MeW5ZoNgr3xyr2SpX`|`jzx1lloJdIBGjmcyS9oYPmXvTKFp4dpj66fPcaON`|

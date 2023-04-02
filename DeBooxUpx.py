@@ -220,6 +220,12 @@ boox_strings = {
         "STRING_SETTINGS": "Lu3Xbc5vobO/8sveD6qjO/LEYeqd199myw3pybHynUEO",
         "STRING_UPGRADE": "WOqqHbls0bZ67ofyutQ+XG37zR09inkP+4G3Z/t9e7m6",
         "STRING_LOCAL": "QrzzLZp3/uz4MwBzb6SJ040+l8AshzAz1t/rG8B/"
+    },
+    'FLOW': {
+        "MODEL": "FLOW",
+        "STRING_SETTINGS": "tzct2Ic6HFZzobeHcxxJ/EVt9EKMUZcaGHMN/uHZjEYW",
+        "STRING_UPGRADE": "ukZbqPE8FiTbM2U12bfY4v0Xhwioj9zdKb5R2RuGL6/i",
+        "STRING_LOCAL": "rGEKmqMjSX3+VMxtZNdDHF/ectjjqKIRuDMu5Mn2"
     }
 }
 
