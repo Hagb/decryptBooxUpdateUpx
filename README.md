@@ -91,6 +91,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 | NotePro  | `NotePro`  |`MjR72bOazBUacJwDcuWgtm/E0A9F9ahIt1buweEPA020`|`RjV8r7+fx2Wjp6rUSrBOpmqYnHKs7eReqTTcy9k4c3tn`|`W2co6eaDmEl7jIjOSqr11C71RDHHiV3p5oG2G54X`|
 |  NoteS   |  `NoteS`   |`+YKimeg208RzM8InqtuUjSIopyM2OLIMpFeeTQby2Au4`|`+vap6p4w0MaT5A8RB4+ru3gnFtIq2g4K+tcjQjy3N599`|`5qT7388vj+/FwLMX/cIXSCgSxSIg9SAf0tB4NcEI`|
 |  NoteX   |  `NoteX`   |`xhffOONo9wDGZquv93yJoLm0z6igW+XL17PUyfR8ky4l`|`zBGvTe9t8HZQXu2Q85Dl0iI9R9tEg2VRw/8cEYXauU3o`|`                                        `|
+|  NoteX2  |  `NoteX2`  |`CTvhm+r7t0WkCO0GSd3wsPz9XM9I8NPkCE01nWR8jbii`|`eE6c45CLsjvPltIFTvnZjS7n9TX57Pergj9uRyAOFK4w`|`                                        `|
 | Note_YDT | `Note_YDT` |`Utaad8dgPmSgBOjFknI0PQAp/Sc+v71Hml0ldJIzecDx`|`ItvgBbJhOxaKjMyiE/yDufmOWwHvTPNfxdOJ2XQTHXaO`|`PIe5RuMNYz8G5FmaqRUu2qHI0br1Is3too/sLts/`|
 |   Nova   |   `Nova`   |`L0uopm+jYaWWf/0e/POLt0kkBuS3H+5axpS6cqUpn4ft`|`XE6jpB3WZ9J5xQdh6GFchFbeBMALt6Zx/UIg8jaiaI72`|`Rh/6kzjOT4nJCsXC5JMEkcbPzzBmNkB8i/c6ZNun`|
 |  Nova2   |  `Nova2`   |`lxXh4Vv6aqYecCAFc/hsn4mnXNbI6H4S3bZFW5Jh8NHj`|`lBabky+FbaOtZ7luDK+7BlApiYcGEi8PndwIc5WaemXQ`|`iDDDo3jsN4hhLA3tQhaIkM4XLcxZT4czBMM7ExnK`|

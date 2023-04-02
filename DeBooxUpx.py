@@ -226,6 +226,11 @@ boox_strings = {
         "STRING_SETTINGS": "tzct2Ic6HFZzobeHcxxJ/EVt9EKMUZcaGHMN/uHZjEYW",
         "STRING_UPGRADE": "ukZbqPE8FiTbM2U12bfY4v0Xhwioj9zdKb5R2RuGL6/i",
         "STRING_LOCAL": "rGEKmqMjSX3+VMxtZNdDHF/ectjjqKIRuDMu5Mn2"
+    },
+    'NoteX2':{
+        "MODEL": "NoteX2",
+        "STRING_SETTINGS": "CTvhm+r7t0WkCO0GSd3wsPz9XM9I8NPkCE01nWR8jbii",
+        "STRING_UPGRADE": "eE6c45CLsjvPltIFTvnZjS7n9TX57Pergj9uRyAOFK4w"
     }
 }
 
