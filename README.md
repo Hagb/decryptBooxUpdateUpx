@@ -78,6 +78,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |Gulliver-ru|`MC_GULLIVER`|`wDNy4yMayA4nnQfzAYYqV3ih6uu363MoyfhaX9MtbCQk`|`xzUDklMaz39aPNJAl45ca7c3hOrBQlNYZh+iZdK64fIo`|`3xRR0nR2lFLKpw5g71X5JGqc0/hZQhmJM9idyx1b`|
 |KonTiki2-ru|`Kon_Tiki2` |`eqxOVE1h8e8hbGNiV2ZHed6hMpcOH3vULx6XMm/WguZ1`|`dKA6Ik0R95nDwjGR/dfPwxkYYNBkfngJk51A2MlRxBsq`|`bPBuYxkL37AYgKbD6nRxEL6EaFCFzFgPij53pTwH`|
 |   Leaf   |   `Leaf`   |`kh5V130fLNcO5lgsSDq7aUxQOz98DzEmiur3YsYKreIs`|`kBtW135kW9zvvgRlsTolCktkJ7+MeW5ZoNgr3xyr2SpX`|`jzx1lloJdIBGjmcyS9oYPmXvTKFp4dpj66fPcaON`|
+| Leaf2-cn | `Leaf2_P`  |`lH1x4y+lRiS8YNYfiDJba3wOcacEOglrIMutctNhpAbL`|`6XR9lSuqRSd6Je0RDReTkVSVPHz3KytxeMRgVQvGyxn9`|`                                        `|
 |   Max2   |   `Max2`   |`vtIkV3LyRAzlnqbIHX3PFsRUI4iP6AgBDlYmkw8OtkZQ`|`uqhRVHL0SwBFPHF8wgyzGaR9XhIlkW/1ab0p7UjuDCjo`|`pvRyElGZH1rWeTUPJ8K3uV2MqyYmjpYYTW2y1Grc`|
 |   Max3   |   `Max3`   |`1wdvUHZmcz32N1pgG4fkHmDsTDVihMJsPCNV4mW/6u1k`|`3nxuLgdpBE3B3n1Yyymt4cOS8dNucfQxK8YOsmcemuyO`|`yCA9YlFxLBdLbDUl3vwzPkn9vtYuVFZCfhrOTvR1`|
 | MaxLumi  | `MaxLumi`  |`mTZFN0K+oMcGnn2n7+zV5DH7kr/Hbes2x/wKDJp6K7Kq`|`mj0zR0Oy3L4R+6y49MIEQT9bdx9AVz8TWyG9q3N+d9VY`|`hWAUdhOp9ekIYxIW+LpVj6OviWBbCbRa1c7s1jtW`|
@@ -114,7 +115,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |livingstone-ru|`LIVINGSTONE`|`ES5zbiHTesxFb+zdkjxiqJ+1dOwyOCv2BzCV7fOYDJxf`|`EFwGaFSherxX1k6Hl/U6TiQhGJOzTPDfsPzHg+z9guln`|`fQ5TLnfKUOHq0f7XXdu9b1FGAckqI576ZBPkZfPg`|
 <!--(strings table end)-->
 
-The models sold in Russia are marked with suffix `-ru`, **some or all of the firmwares for which don't use the same strings with their international versions!**
+A few of models sold in China and most (if not all) of models sold in Russia are marked with suffixes `-cn`/`-ru`, **the firmwares for which don't use the same strings with their international versions!**
 
 PS: SP\_NoteS is SuperStar (chaoxing) verison.
 
