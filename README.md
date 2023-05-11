@@ -100,6 +100,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |  Nova3   |  `Nova3`   |`VUkFew9KjsE54uQMSZI+S2tT1RRckT/vKkfiFFqImxi7`|`VEsMcHw88MpwOByhT7zqNhRFTQcruVMqhdllIlY6T+6f`|`TGlcNi8npJe4EHxzOKbCXakJKDssoRldHueY5OGl`|
 |Nova3Color|`Nova3Color`|`5VJqMbDB52k04k29Wc4itQBtLTRDq5kEdQaQ+GZ324PC`|`ky0eR7CymhuAUrRBaeii5tq/ezcnXMQkT+WV1OrmRqQa`|`/Q89A5Xbsza/FBiIu8LUV5bIiLf9kXDjAdJPjyz+`|
 | NovaAir  | `NovaAir`  |`6NTlwbVEYP1BPTdQE25u6TCpoCg988I/Cjcs0Wxrwa4O`|`66aRwLgxGv1vNmOsbVWp37OBy4RugvpZvUom3VQxWGrM`|`9YDFh+EuTqFECXRvmEbL78mtW69CQRENjADM8A+L`|
+| NovaAir2 | `NovaAir2` |`EYuHsXc/WKloIWi3HjlYe61zD/eKz2VLD9iU60eklkqS`|`aoPzunZMWqjtRuYTeYxTMpLvLinMCLokDsAWnnE6BlRa`|`                                        `|
 | NovaAirC | `NovaAirC` |`ycihhTCxjfQO85KdVPvpA1ZzCPr3eJ/KhcKEKlqMhEfR`|`zsnQgzXEhvsfL4pk48rtEckIPyDedhybURHP198tag+Z`|`                                        `|
 | NovaPlus | `NovaPlus` |`MtoBkApRAVwzdGe2CTnaE4MIgevRYNQfaKo606tyUQNY`|`Nttwkwxaei8xorBu/uUBpUu8nNZHTRIAZMZc0xrJs9Ti`|`LIYj1F9NVXFrOfi24/C76gFFxHYSCJ4mfhYI4q5w`|
 | NovaPro  | `NovaPro`  |`j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ`|`+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag`|`lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF`|
