@@ -241,6 +241,11 @@ boox_strings = {
         "MODEL": "Leaf2",
         "STRING_SETTINGS": "okRZqgfOHft/Y5jHx1N0ECjqrc/Op/nADFj2uL7Jbuxq",
         "STRING_UPGRADE": "10Na33u5HfsCVHqjtwLrwACOW+2cz5MSnXUogONCTd9c",
+    },
+    'Tab13': {
+        "MODEL": "Tab13",
+        "STRING_SETTINGS": "KUYQA1AeW/rKHFqJNQarrSS0N34TOomnnqKlAdoYNtt3",
+        "STRING_UPGRADE": "XkcfAVdtX/83wyPMFgZsmLrQuGRX2z7UYKxt1uTKE5aB",
     }
 }
 
