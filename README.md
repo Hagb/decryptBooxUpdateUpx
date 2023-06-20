@@ -115,6 +115,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |SP_NoteSL | `SP_NoteS` |`XjzywnKKh3FNVKphg5MZ9xILmDNYBZiCHTnkd6Q0fqpq`|`XDeIyQKAhQKj6/UmdAIWoL0aXmw9PeEFl9OpII/1TO9i`|`QmGqhFGXqiuQ9yoeVx0a2SQ8BNojjPn96o6hQW6U`|
 |  Tab13   |  `Tab13`   |`KUYQA1AeW/rKHFqJNQarrSS0N34TOomnnqKlAdoYNtt3`|`XkcfAVdtX/83wyPMFgZsmLrQuGRX2z7UYKxt1uTKE5aB`|`                                        `|
 |   Tab8   |   `Tab8`   |`Yjr0qRHMwEvCt4U3K5QtAVT97968eeMOFF2zx6f6ctFg`|`E0+HqBG5s0Z9WT+eKt0oTL2BucEMDdsaElDGQQFOV9uF`|`                                        `|
+|TabUltraC |`TabUltraC` |`RZFzfJzyeok0sNXRsM4tyY5MO3C+x57v8vPIMcNdki29`|`RuZ3DerxC4zyZynbM4EEX5utqLwVCkxUQgc8S7kaY1B5`|`                                        `|
 |livingstone-ru|`LIVINGSTONE`|`ES5zbiHTesxFb+zdkjxiqJ+1dOwyOCv2BzCV7fOYDJxf`|`EFwGaFSherxX1k6Hl/U6TiQhGJOzTPDfsPzHg+z9guln`|`fQ5TLnfKUOHq0f7XXdu9b1FGAckqI576ZBPkZfPg`|
 <!--(strings table end)-->
 

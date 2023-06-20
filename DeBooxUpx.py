@@ -251,6 +251,11 @@ boox_strings = {
         "MODEL": "Tab13",
         "STRING_SETTINGS": "KUYQA1AeW/rKHFqJNQarrSS0N34TOomnnqKlAdoYNtt3",
         "STRING_UPGRADE": "XkcfAVdtX/83wyPMFgZsmLrQuGRX2z7UYKxt1uTKE5aB",
+    },
+    'TabUltraC': {
+    "MODEL": "TabUltraC",
+    "STRING_SETTINGS": "RZFzfJzyeok0sNXRsM4tyY5MO3C+x57v8vPIMcNdki29",
+    "STRING_UPGRADE": "RuZ3DerxC4zyZynbM4EEX5utqLwVCkxUQgc8S7kaY1B5",
     }
 }
 
