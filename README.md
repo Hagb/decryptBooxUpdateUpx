@@ -114,7 +114,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |SP_NoteSL | `SP_NoteS` |`XjzywnKKh3FNVKphg5MZ9xILmDNYBZiCHTnkd6Q0fqpq`|`XDeIyQKAhQKj6/UmdAIWoL0aXmw9PeEFl9OpII/1TO9i`|`QmGqhFGXqiuQ9yoeVx0a2SQ8BNojjPn96o6hQW6U`|
 |   Tab8   |   `Tab8`   |`Yjr0qRHMwEvCt4U3K5QtAVT97968eeMOFF2zx6f6ctFg`|`E0+HqBG5s0Z9WT+eKt0oTL2BucEMDdsaElDGQQFOV9uF`|`                                        `|
 |livingstone-ru|`LIVINGSTONE`|`ES5zbiHTesxFb+zdkjxiqJ+1dOwyOCv2BzCV7fOYDJxf`|`EFwGaFSherxX1k6Hl/U6TiQhGJOzTPDfsPzHg+z9guln`|`fQ5TLnfKUOHq0f7XXdu9b1FGAckqI576ZBPkZfPg`|
-|Lomonosov |`Lomonosov`|`d/ta4G+/WIb9o0nlZe4/54Ika8QIc7edI7yEBxC3Yy3d`|`A/kr526/LYt2/sk08AdWiFnoCJngYBQnr6GvFbKwbsDW`|`HK19o0ujB9xYyCA9RvOjIXLSJwuL5iER5xvVN6Pu`|
+|Lomonosov-ru|`Lomonosov`|`d/ta4G+/WIb9o0nlZe4/54Ika8QIc7edI7yEBxC3Yy3d`|`A/kr526/LYt2/sk08AdWiFnoCJngYBQnr6GvFbKwbsDW`|`HK19o0ujB9xYyCA9RvOjIXLSJwuL5iER5xvVN6Pu`|
 <!--(strings table end)-->
 
 A few of models sold in China and most (if not all) of models sold in Russia are marked with suffixes `-cn`/`-ru`, **the firmwares for which don't use the same strings with their international versions!**

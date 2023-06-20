@@ -242,7 +242,7 @@ boox_strings = {
         "STRING_SETTINGS": "okRZqgfOHft/Y5jHx1N0ECjqrc/Op/nADFj2uL7Jbuxq",
         "STRING_UPGRADE": "10Na33u5HfsCVHqjtwLrwACOW+2cz5MSnXUogONCTd9c",
     },
-    'Lomonosov': {
+    'Lomonosov-ru': {
         "MODEL": "Lomonosov",
         "STRING_SETTINGS": "d/ta4G+/WIb9o0nlZe4/54Ika8QIc7edI7yEBxC3Yy3d",
         "STRING_UPGRADE": "A/kr526/LYt2/sk08AdWiFnoCJngYBQnr6GvFbKwbsDW",
