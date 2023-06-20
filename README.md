@@ -113,6 +113,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |  Poke4S  |  `Poke4S`  |`iq8+KrwLX7JGcq/B823vpSmVn5CJR2QscYDeArKjtn0B`|`+txDKcp4Kse6Ve1kBswZWQ68i+Kpab8BoXDrgpmqQrjz`|`                                        `|
 | Poke_Pro | `Poke_Pro` |`6GxQ6Iei3y2PSf6Wlayz+0f6yVnl1GXe5OC3q3i2lasO`|`72lZ7vTQoy9/ESDKRQtx2V5uBMDiR+ik3n+soo9wGAbJ`|`hkkAqdfM93RpnCgXxhUqzme3OMzT6tDWC3fyibgW`|
 |SP_NoteSL | `SP_NoteS` |`XjzywnKKh3FNVKphg5MZ9xILmDNYBZiCHTnkd6Q0fqpq`|`XDeIyQKAhQKj6/UmdAIWoL0aXmw9PeEFl9OpII/1TO9i`|`QmGqhFGXqiuQ9yoeVx0a2SQ8BNojjPn96o6hQW6U`|
+|  Tab13   |  `Tab13`   |`KUYQA1AeW/rKHFqJNQarrSS0N34TOomnnqKlAdoYNtt3`|`XkcfAVdtX/83wyPMFgZsmLrQuGRX2z7UYKxt1uTKE5aB`|`                                        `|
 |   Tab8   |   `Tab8`   |`Yjr0qRHMwEvCt4U3K5QtAVT97968eeMOFF2zx6f6ctFg`|`E0+HqBG5s0Z9WT+eKt0oTL2BucEMDdsaElDGQQFOV9uF`|`                                        `|
 |livingstone-ru|`LIVINGSTONE`|`ES5zbiHTesxFb+zdkjxiqJ+1dOwyOCv2BzCV7fOYDJxf`|`EFwGaFSherxX1k6Hl/U6TiQhGJOzTPDfsPzHg+z9guln`|`fQ5TLnfKUOHq0f7XXdu9b1FGAckqI576ZBPkZfPg`|
 <!--(strings table end)-->

@@ -246,6 +246,11 @@ boox_strings = {
         "MODEL": "NovaAir2",
         "STRING_SETTINGS": "EYuHsXc/WKloIWi3HjlYe61zD/eKz2VLD9iU60eklkqS",
         "STRING_UPGRADE": "aoPzunZMWqjtRuYTeYxTMpLvLinMCLokDsAWnnE6BlRa",
+    },
+    'Tab13': {
+        "MODEL": "Tab13",
+        "STRING_SETTINGS": "KUYQA1AeW/rKHFqJNQarrSS0N34TOomnnqKlAdoYNtt3",
+        "STRING_UPGRADE": "XkcfAVdtX/83wyPMFgZsmLrQuGRX2z7UYKxt1uTKE5aB",
     }
 }
 
