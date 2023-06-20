@@ -241,6 +241,11 @@ boox_strings = {
         "MODEL": "Leaf2",
         "STRING_SETTINGS": "okRZqgfOHft/Y5jHx1N0ECjqrc/Op/nADFj2uL7Jbuxq",
         "STRING_UPGRADE": "10Na33u5HfsCVHqjtwLrwACOW+2cz5MSnXUogONCTd9c",
+    },
+    'NovaAir2': {
+        "MODEL": "NovaAir2",
+        "STRING_SETTINGS": "EYuHsXc/WKloIWi3HjlYe61zD/eKz2VLD9iU60eklkqS",
+        "STRING_UPGRADE": "aoPzunZMWqjtRuYTeYxTMpLvLinMCLokDsAWnnE6BlRa",
     }
 }
 
