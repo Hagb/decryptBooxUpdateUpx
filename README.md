@@ -100,6 +100,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |  Nova3   |  `Nova3`   |`VUkFew9KjsE54uQMSZI+S2tT1RRckT/vKkfiFFqImxi7`|`VEsMcHw88MpwOByhT7zqNhRFTQcruVMqhdllIlY6T+6f`|`TGlcNi8npJe4EHxzOKbCXakJKDssoRldHueY5OGl`|
 |Nova3Color|`Nova3Color`|`5VJqMbDB52k04k29Wc4itQBtLTRDq5kEdQaQ+GZ324PC`|`ky0eR7CymhuAUrRBaeii5tq/ezcnXMQkT+WV1OrmRqQa`|`/Q89A5Xbsza/FBiIu8LUV5bIiLf9kXDjAdJPjyz+`|
 | NovaAir  | `NovaAir`  |`6NTlwbVEYP1BPTdQE25u6TCpoCg988I/Cjcs0Wxrwa4O`|`66aRwLgxGv1vNmOsbVWp37OBy4RugvpZvUom3VQxWGrM`|`9YDFh+EuTqFECXRvmEbL78mtW69CQRENjADM8A+L`|
+| NovaAir2 | `NovaAir2` |`EYuHsXc/WKloIWi3HjlYe61zD/eKz2VLD9iU60eklkqS`|`aoPzunZMWqjtRuYTeYxTMpLvLinMCLokDsAWnnE6BlRa`|`                                        `|
 | NovaAirC | `NovaAirC` |`ycihhTCxjfQO85KdVPvpA1ZzCPr3eJ/KhcKEKlqMhEfR`|`zsnQgzXEhvsfL4pk48rtEckIPyDedhybURHP198tag+Z`|`                                        `|
 | NovaPlus | `NovaPlus` |`MtoBkApRAVwzdGe2CTnaE4MIgevRYNQfaKo606tyUQNY`|`Nttwkwxaei8xorBu/uUBpUu8nNZHTRIAZMZc0xrJs9Ti`|`LIYj1F9NVXFrOfi24/C76gFFxHYSCJ4mfhYI4q5w`|
 | NovaPro  | `NovaPro`  |`j857wYAQcWZgvIEQ/tcQqzxreUJgFHwJl6D2TN9BuSkQ`|`+soGw/YVdGIRJiAs5SMmv1ihW37H1Fa9+/1w2Vgt14Ag`|`lpsj9NJ8Kzv8jHb+OO8A5lxC+9Zhl243bFmDZYaF`|
@@ -112,7 +113,9 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |  Poke4S  |  `Poke4S`  |`iq8+KrwLX7JGcq/B823vpSmVn5CJR2QscYDeArKjtn0B`|`+txDKcp4Kse6Ve1kBswZWQ68i+Kpab8BoXDrgpmqQrjz`|`                                        `|
 | Poke_Pro | `Poke_Pro` |`6GxQ6Iei3y2PSf6Wlayz+0f6yVnl1GXe5OC3q3i2lasO`|`72lZ7vTQoy9/ESDKRQtx2V5uBMDiR+ik3n+soo9wGAbJ`|`hkkAqdfM93RpnCgXxhUqzme3OMzT6tDWC3fyibgW`|
 |SP_NoteSL | `SP_NoteS` |`XjzywnKKh3FNVKphg5MZ9xILmDNYBZiCHTnkd6Q0fqpq`|`XDeIyQKAhQKj6/UmdAIWoL0aXmw9PeEFl9OpII/1TO9i`|`QmGqhFGXqiuQ9yoeVx0a2SQ8BNojjPn96o6hQW6U`|
+|  Tab13   |  `Tab13`   |`KUYQA1AeW/rKHFqJNQarrSS0N34TOomnnqKlAdoYNtt3`|`XkcfAVdtX/83wyPMFgZsmLrQuGRX2z7UYKxt1uTKE5aB`|`                                        `|
 |   Tab8   |   `Tab8`   |`Yjr0qRHMwEvCt4U3K5QtAVT97968eeMOFF2zx6f6ctFg`|`E0+HqBG5s0Z9WT+eKt0oTL2BucEMDdsaElDGQQFOV9uF`|`                                        `|
+|TabUltraC |`TabUltraC` |`RZFzfJzyeok0sNXRsM4tyY5MO3C+x57v8vPIMcNdki29`|`RuZ3DerxC4zyZynbM4EEX5utqLwVCkxUQgc8S7kaY1B5`|`                                        `|
 |livingstone-ru|`LIVINGSTONE`|`ES5zbiHTesxFb+zdkjxiqJ+1dOwyOCv2BzCV7fOYDJxf`|`EFwGaFSherxX1k6Hl/U6TiQhGJOzTPDfsPzHg+z9guln`|`fQ5TLnfKUOHq0f7XXdu9b1FGAckqI576ZBPkZfPg`|
 |Lomonosov-ru|`Lomonosov`|`d/ta4G+/WIb9o0nlZe4/54Ika8QIc7edI7yEBxC3Yy3d`|`A/kr526/LYt2/sk08AdWiFnoCJngYBQnr6GvFbKwbsDW`|`HK19o0ujB9xYyCA9RvOjIXLSJwuL5iER5xvVN6Pu`|
 <!--(strings table end)-->

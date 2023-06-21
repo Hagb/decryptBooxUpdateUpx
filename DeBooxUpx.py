@@ -242,6 +242,21 @@ boox_strings = {
         "STRING_SETTINGS": "okRZqgfOHft/Y5jHx1N0ECjqrc/Op/nADFj2uL7Jbuxq",
         "STRING_UPGRADE": "10Na33u5HfsCVHqjtwLrwACOW+2cz5MSnXUogONCTd9c",
     },
+    'NovaAir2': {
+        "MODEL": "NovaAir2",
+        "STRING_SETTINGS": "EYuHsXc/WKloIWi3HjlYe61zD/eKz2VLD9iU60eklkqS",
+        "STRING_UPGRADE": "aoPzunZMWqjtRuYTeYxTMpLvLinMCLokDsAWnnE6BlRa",
+    },
+    'Tab13': {
+        "MODEL": "Tab13",
+        "STRING_SETTINGS": "KUYQA1AeW/rKHFqJNQarrSS0N34TOomnnqKlAdoYNtt3",
+        "STRING_UPGRADE": "XkcfAVdtX/83wyPMFgZsmLrQuGRX2z7UYKxt1uTKE5aB",
+    },
+    'TabUltraC': {
+        "MODEL": "TabUltraC",
+        "STRING_SETTINGS": "RZFzfJzyeok0sNXRsM4tyY5MO3C+x57v8vPIMcNdki29",
+        "STRING_UPGRADE": "RuZ3DerxC4zyZynbM4EEX5utqLwVCkxUQgc8S7kaY1B5",
+    },
     'Lomonosov-ru': {
         "MODEL": "Lomonosov",
         "STRING_SETTINGS": "d/ta4G+/WIb9o0nlZe4/54Ika8QIc7edI7yEBxC3Yy3d",
