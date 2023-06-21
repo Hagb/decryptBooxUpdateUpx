@@ -253,9 +253,15 @@ boox_strings = {
         "STRING_UPGRADE": "XkcfAVdtX/83wyPMFgZsmLrQuGRX2z7UYKxt1uTKE5aB",
     },
     'TabUltraC': {
-    "MODEL": "TabUltraC",
-    "STRING_SETTINGS": "RZFzfJzyeok0sNXRsM4tyY5MO3C+x57v8vPIMcNdki29",
-    "STRING_UPGRADE": "RuZ3DerxC4zyZynbM4EEX5utqLwVCkxUQgc8S7kaY1B5",
+        "MODEL": "TabUltraC",
+        "STRING_SETTINGS": "RZFzfJzyeok0sNXRsM4tyY5MO3C+x57v8vPIMcNdki29",
+        "STRING_UPGRADE": "RuZ3DerxC4zyZynbM4EEX5utqLwVCkxUQgc8S7kaY1B5",
+    },
+    'Lomonosov-ru': {
+        "MODEL": "Lomonosov",
+        "STRING_SETTINGS": "d/ta4G+/WIb9o0nlZe4/54Ika8QIc7edI7yEBxC3Yy3d",
+        "STRING_UPGRADE": "A/kr526/LYt2/sk08AdWiFnoCJngYBQnr6GvFbKwbsDW",
+        "STRING_LOCAL": "HK19o0ujB9xYyCA9RvOjIXLSJwuL5iER5xvVN6Pu"
     }
 }
 
