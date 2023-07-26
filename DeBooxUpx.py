@@ -220,6 +220,11 @@ boox_strings = {
         "STRING_SETTINGS": "Yjr0qRHMwEvCt4U3K5QtAVT97968eeMOFF2zx6f6ctFg",
         "STRING_UPGRADE": "E0+HqBG5s0Z9WT+eKt0oTL2BucEMDdsaElDGQQFOV9uF"
     },
+    'TabX': {
+        "MODEL": "TabX",
+        "STRING_SETTINGS": "GaXQW13zu5N6fxcN08SenRQnyjjY87BTBbca+r9UWVda",
+        "STRING_UPGRADE": "E6SgWieFseUrkOsicCuPRx0nsqA8SxQuQ37E7Sctuboy"
+    },
     'Poke2': {
         "MODEL": "Poke2",
         "STRING_SETTINGS": "Lu3Xbc5vobO/8sveD6qjO/LEYeqd199myw3pybHynUEO",
