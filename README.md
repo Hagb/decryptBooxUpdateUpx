@@ -80,6 +80,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 |   Leaf   |   `Leaf`   |`kh5V130fLNcO5lgsSDq7aUxQOz98DzEmiur3YsYKreIs`|`kBtW135kW9zvvgRlsTolCktkJ7+MeW5ZoNgr3xyr2SpX`|`jzx1lloJdIBGjmcyS9oYPmXvTKFp4dpj66fPcaON`|
 |  Leaf2   |  `Leaf2`   |`okRZqgfOHft/Y5jHx1N0ECjqrc/Op/nADFj2uL7Jbuxq`|`10Na33u5HfsCVHqjtwLrwACOW+2cz5MSnXUogONCTd9c`|`                                        `|
 | Leaf2-cn | `Leaf2_P`  |`lH1x4y+lRiS8YNYfiDJba3wOcacEOglrIMutctNhpAbL`|`6XR9lSuqRSd6Je0RDReTkVSVPHz3KytxeMRgVQvGyxn9`|`                                        `|
+|  Leaf3   |  `Leaf3`   |`e6B73ATP5CwQEdMD6rmZ7EgxixRiLh3mDDoHWvMVkyCU`|`fNEJoHjOni4HoYgEjw2YOSPXjWvjMro9l8F04dQemxD5`|`                                        `|
 |Lomonosov-ru|`Lomonosov` |`d/ta4G+/WIb9o0nlZe4/54Ika8QIc7edI7yEBxC3Yy3d`|`A/kr526/LYt2/sk08AdWiFnoCJngYBQnr6GvFbKwbsDW`|`HK19o0ujB9xYyCA9RvOjIXLSJwuL5iER5xvVN6Pu`|
 |   Max2   |   `Max2`   |`vtIkV3LyRAzlnqbIHX3PFsRUI4iP6AgBDlYmkw8OtkZQ`|`uqhRVHL0SwBFPHF8wgyzGaR9XhIlkW/1ab0p7UjuDCjo`|`pvRyElGZH1rWeTUPJ8K3uV2MqyYmjpYYTW2y1Grc`|
 |   Max3   |   `Max3`   |`1wdvUHZmcz32N1pgG4fkHmDsTDVihMJsPCNV4mW/6u1k`|`3nxuLgdpBE3B3n1Yyymt4cOS8dNucfQxK8YOsmcemuyO`|`yCA9YlFxLBdLbDUl3vwzPkn9vtYuVFZCfhrOTvR1`|

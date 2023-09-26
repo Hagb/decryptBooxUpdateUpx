@@ -192,6 +192,11 @@ boox_strings = {
         "STRING_SETTINGS": "lH1x4y+lRiS8YNYfiDJba3wOcacEOglrIMutctNhpAbL",
         "STRING_UPGRADE": "6XR9lSuqRSd6Je0RDReTkVSVPHz3KytxeMRgVQvGyxn9"
     },
+    'Leaf3': {
+        "MODEL": "Leaf3",
+        "STRING_SETTINGS": "e6B73ATP5CwQEdMD6rmZ7EgxixRiLh3mDDoHWvMVkyCU",
+        "STRING_UPGRADE": "fNEJoHjOni4HoYgEjw2YOSPXjWvjMro9l8F04dQemxD5"
+    },
     "Gulliver-ru": {
         "MODEL": "MC_GULLIVER",
         "STRING_SETTINGS": "wDNy4yMayA4nnQfzAYYqV3ih6uu363MoyfhaX9MtbCQk",
