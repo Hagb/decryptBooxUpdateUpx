@@ -82,6 +82,7 @@ decrypter.deUpx(updateUpxPath, decryptedPath)
 | Leaf2-cn | `Leaf2_P`  |`lH1x4y+lRiS8YNYfiDJba3wOcacEOglrIMutctNhpAbL`|`6XR9lSuqRSd6Je0RDReTkVSVPHz3KytxeMRgVQvGyxn9`|`                                        `|
 |Lomonosov-ru|`Lomonosov` |`d/ta4G+/WIb9o0nlZe4/54Ika8QIc7edI7yEBxC3Yy3d`|`A/kr526/LYt2/sk08AdWiFnoCJngYBQnr6GvFbKwbsDW`|`HK19o0ujB9xYyCA9RvOjIXLSJwuL5iER5xvVN6Pu`|
 |   Max2   |   `Max2`   |`vtIkV3LyRAzlnqbIHX3PFsRUI4iP6AgBDlYmkw8OtkZQ`|`uqhRVHL0SwBFPHF8wgyzGaR9XhIlkW/1ab0p7UjuDCjo`|`pvRyElGZH1rWeTUPJ8K3uV2MqyYmjpYYTW2y1Grc`|
+| Max2Pro  | `Max2Pro`  |`K+wiaafKB4nzJLTyTPtOfzpdPL4WsXvHDqsXyEF3H8uw`|`JJ5RGNG3cf6Tm+wcg1y1ZcB6yjUQpMJBjz81N2p+D1N1`|`PMoGXIOgX6IBrlvRbsCWXNASzH3mL32yJLnatyXS`|
 |   Max3   |   `Max3`   |`1wdvUHZmcz32N1pgG4fkHmDsTDVihMJsPCNV4mW/6u1k`|`3nxuLgdpBE3B3n1Yyymt4cOS8dNucfQxK8YOsmcemuyO`|`yCA9YlFxLBdLbDUl3vwzPkn9vtYuVFZCfhrOTvR1`|
 | MaxLumi  | `MaxLumi`  |`mTZFN0K+oMcGnn2n7+zV5DH7kr/Hbes2x/wKDJp6K7Kq`|`mj0zR0Oy3L4R+6y49MIEQT9bdx9AVz8TWyG9q3N+d9VY`|`hWAUdhOp9ekIYxIW+LpVj6OviWBbCbRa1c7s1jtW`|
 | MaxLumi2 | `MaxLumi2` |`zR5/dfK/2XhmwhA9AIGr+gx6Vzho5sbklSTjLAgnC8/C`|`zh98dPzN0QdwbRem1Yfx28DFxU+Gkvg4MpLDIp0GorRU`|`                                        `|
