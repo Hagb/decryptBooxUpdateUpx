@@ -267,6 +267,11 @@ boox_strings = {
         "STRING_SETTINGS": "d/ta4G+/WIb9o0nlZe4/54Ika8QIc7edI7yEBxC3Yy3d",
         "STRING_UPGRADE": "A/kr526/LYt2/sk08AdWiFnoCJngYBQnr6GvFbKwbsDW",
         "STRING_LOCAL": "HK19o0ujB9xYyCA9RvOjIXLSJwuL5iER5xvVN6Pu"
+    },
+    'Poke5P': {
+        "MODEL": "Poke5P",
+        "STRING_SETTINGS": "qxgpoanZIjVbMsdvYPNSHm8fjAUAHAqPrks0FAJxS4rB",
+        "STRING_UPGRADE": "rBtaoN3bUjFzHjHr7I3akO+0Z83BOl7Ts3JrJtbWNryO",
     }
 }
 
