@@ -39,29 +39,34 @@ class DeBooxUpx:
         inputFile.close()
         outputFile.close()
 
-def findKeyIv(Name: str):
-    with open('BooxKeys.csv') as file:
-        reader = csv.reader(file, delimiter=',')
-        line = 0
-        for row in reader:
-            if line > 0 and row[0] == Name:
-                return(row)
-            line += 1
-    return None
+def findKeyIv(path: str, Name: str):
+    try:
+        with open(path) as file:
+            reader = csv.reader(file, delimiter=',')
+            line = 0
+            for row in reader:
+                if line > 0 and row[0] == Name:
+                    return(row)
+                line += 1
+        return None
+    except:
+        print(f'"{path}" not found')
+        sys.exit()
 
 if __name__ == '__main__':
     import sys
+    import os.path
     if 2 <= len(sys.argv) <= 4:
+        csvPath = os.path.join(os.path.split(sys.argv[0])[0], 'BooxKeys.csv')
         device_name = sys.argv[1]
         updateUpxPath = "update.upx" if len(sys.argv) == 2 else sys.argv[2]
         if len(sys.argv) == 4:
             decryptedPath = sys.argv[3]
         else:
-            import os.path
             basename = os.path.basename(updateUpxPath)
             name, ext = os.path.splitext(basename)
             decryptedPath = name + '.zip' if ext == '.upx' else basename + '.zip'
-        row = findKeyIv(device_name)
+        row = findKeyIv(csvPath, device_name)
         if row is None:
             print(f'No model named "{device_name}" found')
             sys.exit()
@@ -69,6 +74,5 @@ if __name__ == '__main__':
         decrypter.deUpx(updateUpxPath, decryptedPath)
         print(f"Saved decrypted file to {decryptedPath}")
     else:
-        print("Usage:\npython DeBooxUpdate.py <device name> [input file name [output file name]]")
-        print("Supported devices: (those marked with suffix '-ru' are Russian models)")
-        print(" ".join(sorted(boox_strings.keys())))
+        print('Usage:\npython DeBooxUpdate.py <device name> [input file name [output file name]]')
+        print('For supported devices see BooxKeys.csv')
