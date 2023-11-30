@@ -34,33 +34,32 @@ You can use [BooxKeyConverter.py](BooxKeyConverter.py) or, as always, just post 
 ## Decryption keys stored in a library file
 
 This is the newer approach and may have variants now and in the future.
-You can easily see if this might be the case by the presence of a library file.
-You can download this library by `adb pull /system/lib64/libota_jni.so`.
-Although this is specific to 64 bit devices, only the newer 64 bit devices use this approach.
+You can easily see if this might be the case by the presence of a library file named `libota_jni.so`.
+You can download this library by `adb pull /system/lib64/libota_jni.so` (for 64 bit) or `adb pull /system/lib/libota_jni.so` (for 32 bit).
 As before, you can just start an issue and post this file if that's your limit as it gets a bit more complicated now.
 
 ### Decryption keys accessed by JNI method
 
-The old style decryption keys may be extracted by calling JNI methods in libota_jni.so.
-The two exported functions are:
+The decryption keys may be extracted by calling JNI methods in libota_jni.so.
+The two JNI methods are:
 ```
 Java_com_onyx_android_onyxotaservice_RsaUtil_nativeGetSecretKey
 Java_com_onyx_android_onyxotaservice_RsaUtil_nativeGetIvParameter
 ```
-The utility [ota_jni.py](ota_jni.py) can extract the decryption keys.
-You can use [BooxKeyConverter.py](BooxKeyConverter.py) to convert them to new style.
+The Android application [GetBooxUpxKeysApp](https://github.com/Hagb/GetBooxUpxKeysApp) or the emulator utility [ota_jni.py](ota_jni.py) can extract the decryption keys.
+If the extracted decryption keys are old style you can use [BooxKeyConverter.py](BooxKeyConverter.py) to convert them to new style.
 
 ### Decryption keys accessed by C++ call
 
-The new style decryption keys may be extracted by calling C++ functions in libota_jni.so.
+The new style decryption keys may be extracted by calling C++ functions in `libota_jni.so`.
 The two exported functions are:
 ```
 getKeyString(void)         _Z12getKeyStringv
 getInitVectorString(void)  _Z19getInitVectorStringv
 ```
+There is not yet a released utility to extract the decryption keys.
 
 ### Decryption keys not accessible directly from the library file
 
 There may not be any methods or functions to directly access the encryption keys.
 Please post your libota_jni.so and we will see what we can do.
-
