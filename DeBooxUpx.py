@@ -39,13 +39,13 @@ class DeBooxUpx:
         inputFile.close()
         outputFile.close()
 
-def findKeyIv(path: str, Name: str):
+def findKeyIv(path: str, name: str):
     try:
         with open(path) as file:
             reader = csv.reader(file, delimiter=',')
             line = 0
             for row in reader:
-                if line > 0 and row[0] == Name:
+                if line > 0 and (row[0] == name or row[1] == name):
                     return(row)
                 line += 1
         return None
